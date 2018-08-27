@@ -6,8 +6,8 @@ In this introductory course, __Fundamentals of Multimedia Storytelling: Interact
 
 ### Key takeaways
 
+|:--|:--|
 |Learn to conceptualize and produce content for the web by exploring sophisticated tools and digital story forms.|Study how the news industry is adapting to new technologies, including ways to map or illustrate data as news.|
 |Master the most fundamental skills by learning to write HTML and CSS -- the core coding languages of web design.|Explore all these technologies in the context of news, journalism, reporting, and storytelling.|
-|:--|:--|
 
 This three-credit course covers the basic technical skills that serve as the foundation for your coursework in the CUNY Graduate School of Journalism's interactive curriculum.
