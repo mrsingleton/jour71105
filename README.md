@@ -12,4 +12,4 @@ __This three-credit course covers the basic technical skills that serve as the f
 ## Course information
 Read the full course outline, syllabus, schedule, and other important information in:
 - [this repo's wiki](https://github.com/mrsingleton/jour71105/wiki)
-- [this repo's site](https://mrsingleton.github.io/jour71105/).
+- [this repo's site](https://mrsingleton.github.io/jour71105/)
