@@ -10,7 +10,7 @@ In this introductory course, __Fundamentals of Multimedia Storytelling: Interact
 - Master the most fundamental skills by learning to write HTML and CSS -- the core coding languages of web design.
 - Explore all these technologies in the context of news, journalism, reporting, and storytelling.
 
-This three-credit course covers the basic technical skills that serve as the foundation for your coursework in the CUNY Graduate School of Journalism's interactive curriculum.
+__This three-credit course covers the basic technical skills that serve as the foundation for your coursework in the CUNY Graduate School of Journalism's interactive curriculum.__
 
 ### Course information
 Read the full course outline, syllabus, schedule, and other important information in this repo's wiki.
