@@ -10,4 +10,4 @@ Congratulations on joining the journalism course that introduces you to the basi
 __This three-credit course covers the basic technical skills that serve as the foundation for your coursework in the CUNY Graduate School of Journalism's interactive curriculum.__
 
 ## Course information
-Read the full course outline, syllabus, schedule, and other important information in [this repo's wiki](/jour71105/wiki).
+Read the full course outline, syllabus, schedule, and other important information in [this repo's wiki](https://github.com/mrsingleton/jour71105/wiki).
