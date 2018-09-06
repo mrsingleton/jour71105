@@ -2,7 +2,7 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
 
 <head>
     <title>Page Title</title>
