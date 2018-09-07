@@ -1,9 +1,9 @@
 # Site settings
 title: Jour71105
-description: '<p>Multimedia Interactive</p><hr><p><a href="/jour71105/tk/">tk</a><br><a href="/jour71105/tk/">tk</a><br><a href="/jour71105/tk/">tk</a></p><hr><p><a href="/jour71105/tk/">tk</a><br><a href="/jour71105/tk/">tk</a><br><a href="/jour71105/tk/">tk</a></p>'
+description: '<p>Multimedia Interactive</p><hr><p><a href="/jour71105/objectives">Objectives</a><br><a href="/jour71105/units/">Units</a><br><a href="/jour71105/activities/">Activities</a><br><a href="/jour71105/resources/">Resources</a><br><a href="/jour71105/readings/">Readings</a><br><a href="/jour71105/assignments/">Assignments</a></p><hr><p><a href="/jour71105/instructor">Instructor</a><br><a href="https://github.com/mrsingleton/jour71105/wiki">Wiki</a></p>'
 url: https://mrsingleton.github.io
 theme: jekyll-theme-minimal
 email: mrsingleton@gmail.com
-keywords: "cuny interactive, cuny journalism, newmark school, course website, malik singleton, digital storytelling, data journalism, infographics, data visualization"
+keywords: "cuny journalism, newmark journalism, cuny interactive, interactive journalism, data journalism, multimedia journalism, interactive reporting, online news, journalism education, multimedia storytelling, digital storytelling, visual journalism, data visualization, precision journalism, data science, infographics, craft, intro, fundamentals, introduction to data journalism, data journalism syllabus, course website, course wiki, computer assisted reporting, car, investigative journalism, computational journalism, malik singleton"
 skills: "Data Science - Web Development - Information Architecture - User Experience"
 meta_author: Singleton Malik
