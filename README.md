@@ -1,6 +1,6 @@
 # Interactive Journalism and Data-Driven Reporting
 
-## Learn to create elements of digital media that inform your readers and also involve them as participating users.
+## Create digital media that informs your readers and also involves them as users
 
 Congratulations on joining the journalism course that introduces you to the basics of producing your own interactive reporting for the web.
 
