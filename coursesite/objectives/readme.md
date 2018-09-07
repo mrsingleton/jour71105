@@ -1,5 +1,3 @@
-![](https://i.imgur.com/QwzZmU0.jpg)
-
 # Objectives and Outcomes
 
 ## Objectives
