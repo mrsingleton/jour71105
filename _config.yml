@@ -1,6 +1,6 @@
 # Site settings
 title: Jour71105
-description: '<p>Fundamentals of Multimedia Storytelling</p><hr><p><img src="https://i.imgur.com/eNIa6WQ.png"></p><hr><p><a href="/jour71105/objectives">Objectives</a><br><a href="/jour71105/units/">Units</a><br><a href="/jour71105/activities/">Activities</a><br><a href="/jour71105/resources/">Resources</a><br><a href="/jour71105/readings/">Readings</a><br><a href="/jour71105/snippets/">Snippets</a><br><a href="/jour71105/assignments/">Assignments</a></p><hr><p><a href="/jour71105/instructor">Instructor</a><br><a href="https://github.com/mrsingleton/jour71105/wiki" target="_blank">Wiki »</a></p>'
+description: '<p>Fundamentals of Multimedia Storytelling</p><hr><p><img src="https://i.imgur.com/eNIa6WQ.png" alt="Noun Project Newspaper icon by lastspark"></p><hr><p><a href="/jour71105/objectives">Objectives</a><br><a href="/jour71105/units/">Units</a><br><a href="/jour71105/activities/">Activities</a><br><a href="/jour71105/resources/">Resources</a><br><a href="/jour71105/readings/">Readings</a><br><a href="/jour71105/snippets/">Snippets</a><br><a href="/jour71105/assignments/">Assignments</a></p><hr><p><a href="/jour71105/instructor">Instructor</a><br><a href="https://github.com/mrsingleton/jour71105/wiki" target="_blank">Wiki »</a></p>'
 url: https://mrsingleton.github.io
 theme: jekyll-theme-minimal
 email: mrsingleton@gmail.com
