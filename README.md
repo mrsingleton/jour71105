@@ -1,4 +1,4 @@
-# Fundamentals of Multimedia Storytelling: Interactive Journalism and Data-Driven Reporting
+# Interactive Journalism and Data-Driven Reporting
 Congratulations on joining the journalism course that introduces you to the basics of producing your own interactive reporting for the web. You will learn to create elements of digital media that inform your readers and also involve them as participating users.
 
 ## Key takeaways
