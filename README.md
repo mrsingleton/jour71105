@@ -1,4 +1,8 @@
+![](https://i.imgur.com/QwzZmU0.jpg)
+
 # Interactive Journalism and Data-Driven Reporting
+
+---
 
 ## Create news packages that inform your readers and also involve them as users
 
