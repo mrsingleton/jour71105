@@ -29,17 +29,13 @@ _A realistic status report explains where things stand right now, who you spoke 
 -->
 
 ## 1. Static Infographic
-Use HTML and CSS to create an infographic related to a news story you are considering reporting.  
-__Due Fri Sep 28__
+Use HTML and CSS to create an infographic related to a news story you are considering reporting.
 
 ## 2. Interactive Chart
-Use Google Sheets to analyze a dataset and DataWrapper to create an interactive chart related to a news story that you report. Approx. 150 words.  
-__Due Fri Nov 2__
+Use Google Sheets to analyze a dataset and DataWrapper to create an interactive chart related to a news story that you report. Approx. 150 words.
 
 ## 3. Interactive Map
-Use a location-based dataset plus DataWrapper or Carto to create an interactive map related to a news story that you report. Approx. 250 words.  
-__Due Wed Nov 21__
+Use a location-based dataset plus DataWrapper or Carto to create an interactive map related to a news story that you report. Approx. 250 words.
 
 ## 4. Final Package
-Combine all elements of your reporting you edited and the interactive assets you iterated on from earlier assignments into one cohesive and comprehensive work of journalism, ready to be presented on the final day of class.  
-__Due Fri Dec 14__
+Combine all elements of your reporting you edited and the interactive assets you iterated on from earlier assignments into one cohesive and comprehensive work of journalism, ready to be presented on the final day of class.
