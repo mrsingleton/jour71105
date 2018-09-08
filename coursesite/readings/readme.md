@@ -1,3 +1,5 @@
+# Readings
+
 ## The ongoing debate
 
 1. [Why Journalism Students Need a Baseline Understanding of Coding](http://mediashift.org/2015/01/why-journalism-students-need-a-baseline-understanding-of-coding/)
