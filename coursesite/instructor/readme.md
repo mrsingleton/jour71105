@@ -1,4 +1,4 @@
-## Malik Singleton
+# Malik Singleton
 
 __I've spent most of my career as a technologist in newsrooms and now I do that in academic environments.__
 
