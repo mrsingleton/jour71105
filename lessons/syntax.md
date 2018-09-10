@@ -10,8 +10,10 @@ Refer to these examples when writing new HTML code or when troubleshooting exist
 `<` `=` `""` `>` ... `<` `/` `>`
 
 ### End result
-`<a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a>`  
-`<h2 class="subhead">Authorities investigating cause of incident</h2>`
+```html
+<a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a>
+<h2 class="subhead">Authorities investigating cause of incident</h2>
+```
 
 ### HTML comment syntax
 ```html
