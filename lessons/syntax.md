@@ -11,7 +11,7 @@ Learn how to format your HTML validly by learning the parts that repeat consiste
 
 ### End result
 ```html
-<a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a>
+<h1><a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a></h2>
 <h2 class="subhead">Authorities investigating cause of incident</h2>
 ```
 
