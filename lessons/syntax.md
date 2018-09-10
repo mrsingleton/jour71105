@@ -7,7 +7,7 @@ Refer to these examples when writing new HTML code or when troubleshooting exist
 |`<h2`|`class=`|`"subhead">`|Authorities investigating cause of incident|`</h2>`|
 
 Punctuation symbols
-`<` `=` `""` `>` `...` `<` `/` `>`
+`<` `=` `""` `>` ... `<` `/` `>`
 
 HTML comment syntax
 ```html
