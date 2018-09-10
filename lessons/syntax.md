@@ -23,6 +23,7 @@ HTML comment
 |Element Selector|Open Declaration|Property|Value|Close Declaration|
 |:--:|:--:|:--:|:--:|:--:|
 |`a`|`{`|`color:`|`#696;`|`}`|
+|`h2`|`{`|`font-size:`|`14px;`|`}`|
 
 Punctuation symbols
 `{` `:` `;` `}`
