@@ -6,14 +6,14 @@ Refer to these examples when writing new HTML code or when troubleshooting exist
 |`<a`|`href=`|`"https://ucr.fbi.gov/">`|FBI Uniform Crime Reporting|`</a>`|
 |`<h2`|`class=`|`"subhead">`|Authorities investigating cause of incident|`</h2>`|
 
-Punctuation symbols
+### Punctuation symbols
 `<` `=` `""` `>` ... `<` `/` `>`
 
-End result
-`<a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a>`
+### End result
+`<a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a>`  
 `<h2 class="subhead">Authorities investigating cause of incident</h2>`
 
-HTML comment syntax
+### HTML comment syntax
 ```html
 <!-- This is how to write a single-line HTML comment -->
 
@@ -33,9 +33,21 @@ Refer to these examples when writing new CSS code or when troubleshooting existi
 |`a`|`{`|`color:`|`#696;`|`}`|
 |`.subhead`|`{`|`font-size:`|`14px;`|`}`|
 
-Punctuation symbols
+### Punctuation symbols
 `{` `:` `;` `}`
 
+### End result
+```css
+a {
+  color: #696;
+}
+
+.subhead {
+  font-size: 14px;
+}
+```
+
+### CSS comment syntax
 ```css
 /* This is how to write a single-line CSS comment */
 
