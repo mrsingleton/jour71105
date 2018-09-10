@@ -11,8 +11,11 @@ Punctuation symbols
 
 HTML comment syntax
 ```html
+<!-- This is how to write a single-line HTML comment -->
+
 <!--
-HTML comment
+This is how to write a
+multi-line HTML comment
 -->
 ```
 
@@ -29,7 +32,10 @@ Punctuation symbols
 `{` `:` `;` `}`
 
 ```css
+// This is how to write a single-line CSS comment
+
 /*
-CSS comment
+This is how to write a
+multi-line CSS comment
 */
 ```
