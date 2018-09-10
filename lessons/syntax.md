@@ -22,6 +22,7 @@ multi-line HTML comment
 ---
 
 ## CSS Rule Syntax
+Refer to these examples when writing new CSS code or when troubleshooting existing code.
 
 |Element Selector|Open Declaration|Property|Value|Close Declaration|
 |:--:|:--:|:--:|:--:|:--:|
