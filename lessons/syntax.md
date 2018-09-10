@@ -9,6 +9,10 @@ Refer to these examples when writing new HTML code or when troubleshooting exist
 Punctuation symbols
 `<` `=` `""` `>` ... `<` `/` `>`
 
+End result
+`<a href="https://ucr.fbi.gov/">FBI Uniform Crime Reporting</a>`
+`<h2 class="subhead">Authorities investigating cause of incident</h2>`
+
 HTML comment syntax
 ```html
 <!-- This is how to write a single-line HTML comment -->
@@ -27,7 +31,7 @@ Refer to these examples when writing new CSS code or when troubleshooting existi
 |Element Selector|Open Declaration|Property|Value|Close Declaration|
 |:--:|:--:|:--:|:--:|:--:|
 |`a`|`{`|`color:`|`#696;`|`}`|
-|`h2`|`{`|`font-size:`|`14px;`|`}`|
+|`.subhead`|`{`|`font-size:`|`14px;`|`}`|
 
 Punctuation symbols
 `{` `:` `;` `}`
