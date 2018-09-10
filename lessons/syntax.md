@@ -1,5 +1,5 @@
 ## HTML Element Syntax
-Refer to these examples when writing new HTML code or when troubleshooting existing code.
+Learn how to format your HTML validly by learning the parts that repeat consistently. Tags will differ, but the punctuation used to distiguish elements will mostly be the same. Refer to the following examples when writing new HTML code or when troubleshooting existing code.
 
 |Opening tag|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|
@@ -28,7 +28,7 @@ multi-line HTML comment
 ---
 
 ## CSS Rule Syntax
-Refer to these examples when writing new CSS code or when troubleshooting existing code.
+Learn how to format your CSS validly by learning the parts that repeat consistently. Selectors will differ, but the punctuation used to distiguish properties and values will mostly be the same. Refer to these examples when writing new CSS code or when troubleshooting existing code.
 
 |Element Selector|Open Declaration|Property|Value|Close Declaration|
 |:--:|:--:|:--:|:--:|:--:|
