@@ -32,7 +32,7 @@ Punctuation symbols
 `{` `:` `;` `}`
 
 ```css
-// This is how to write a single-line CSS comment
+/* This is how to write a single-line CSS comment */
 
 /*
 This is how to write a
