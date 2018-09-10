@@ -1,4 +1,4 @@
-## HTML Element Syntax
+# HTML Element Syntax
 
 |Opening tag|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|
@@ -7,9 +7,7 @@
 Punctuation symbols
 `<` `=` `""` `>` `<` `/` `>`
 
----
-
-## CSS Rule Syntax
+# CSS Rule Syntax
 
 |Element Selector|Open Declaration|Property|Value|Close Declaration|
 |:--:|:--:|:--:|:--:|:--:|
