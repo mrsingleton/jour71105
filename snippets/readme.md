@@ -1,4 +1,4 @@
-Find code snippets herein
+# Snippets
 
 # Head tag and topmatter
 
