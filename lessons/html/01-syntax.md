@@ -1,5 +1,5 @@
-# HTML Element Syntax
-Learn how to format your HTML validly by learning the parts that repeat consistently. Tags will differ, but the punctuation used to distiguish elements will mostly be the same. Refer to the following examples when writing new HTML code or when troubleshooting existing code.
+# HTML Syntax
+Learn how to format your HTML elements validly by learning the parts that repeat consistently. Tags will differ, but the punctuation used to distiguish elements will mostly be the same. Refer to the following examples when writing new HTML code or when troubleshooting existing code.
 
 |Opening tag|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|
