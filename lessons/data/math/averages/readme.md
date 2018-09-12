@@ -6,4 +6,4 @@ In contrast to aggregates, which tell us what the totals are, averages tell us m
 |:--|:--|
 |What's the average?|Mean|
 |What number is right in the middle?|Median|
-|What number or response occurs most?|Mode|
+|What occurs most?|Mode|
