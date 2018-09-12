@@ -3,7 +3,7 @@
 As you research, you'll think of certain questions (or your editor will ask you certain questions) and you'll need smart ways of getting the answers. With data at your disposal, you can use _aggregates_ to respond to the following:
 
 |Function type|Question type|
-|:--:|:--|
+|:--|:--|
 |Sum|how much...|
 |Difference|by how much less..., by how many more...|
 |Count|how many...|
