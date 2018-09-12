@@ -2,11 +2,11 @@
 
 As you research, you'll think of certain questions (or your editor will ask you certain questions) and you'll need smart ways of getting the answers. With data at your disposal, you can use _aggregates_ to respond to the following:
 
-|Function type|Question type|
+|Question type|Function type|
 |:--|:--|
-|Count|how many...|
-|Sum|how much...|
-|Difference|by how much less..., by how many more...|
-|Max|what's the most..., what's the highest...|
-|Min|what's the least..., what's the lowest...|
-|Rank|what are the top 10..., top 20..., bottom 5...|
+|How many...|Count|
+|How much...|Sum|
+|By how much less... By how many more...|Difference|
+|What's the most... What's the highest...|Max|
+|What's the least... What's the lowest...|Min|
+|What are the top 10... top 20... bottom 5...|Rank|
