@@ -1,5 +1,5 @@
-# Min
-
 # Max
+
+# Min
 
 # Rank
