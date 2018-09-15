@@ -31,6 +31,7 @@ figure, p {
 
 figure {
   width: 200px;
+  margin-left: 0;
 }
 
 p {
