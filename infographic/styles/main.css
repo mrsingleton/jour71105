@@ -38,3 +38,7 @@ p {
   vertical-align: top;
   font-family: Helvetica;
 }
+
+footer {
+  font-size: 10px;
+}
