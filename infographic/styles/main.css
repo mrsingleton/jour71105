@@ -25,11 +25,13 @@ h3 {
   font-family: Georgia;
 }
 
-figure, p {
+section {
   display: inline-block;
+  width: auto;
+  height: auto;
 }
 
-figure {
+img {
   width: 200px;
   margin-left: 0;
 }
