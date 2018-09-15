@@ -39,6 +39,6 @@ p {
   font-family: Helvetica;
 }
 
-footer, p {
-  font-size: 8px;
+.footer {
+  font-size: 11px;
 }
