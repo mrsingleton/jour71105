@@ -36,5 +36,6 @@ figure {
 p {
   width: auto;
   text-align: top;
+  vertical-align: top;
   font-family: Helvetica;
 }
