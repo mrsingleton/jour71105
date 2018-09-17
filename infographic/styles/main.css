@@ -5,7 +5,7 @@ body {
   color: #333;
 }
 
-/* All page elements will be inside a 900px-wide container block that is also centered */
+/* All page elements will be inside this container block, which is also centered */
 main {
   width: 70%;
   margin: 0 auto; 
