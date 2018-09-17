@@ -21,13 +21,13 @@ section {
   clear: both;
 }
 
-/* used for text blurb */
+/* used for text blurb, "floated" to the right of the aside witht the icon image */
 article {
   float: right;
   width: 79%;
 }
 
-/* used for icon image */
+/* used for icon image, "floated" to the left of the article with the text blurb */
 aside {
   float: left;
   width: 20%;
