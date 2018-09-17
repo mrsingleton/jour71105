@@ -1,6 +1,8 @@
 # Explainer Infographic Assignment
 
-Do a piece of _explainer_ journalism, designed as a web-based _infographic_.
+Due Fri Sep 28
+
+Do a piece of _explainer_ journalism, designed as a web-based _infographic_, and related to a news story you are considering reporting.
 
 - Pick a subject you know well
 - Produce an HTML/CSS doc that incorporates text and representative icons
