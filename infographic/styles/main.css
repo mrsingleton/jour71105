@@ -1,47 +1,63 @@
 /* CSS file */
 
 body {
-  background: #ccc;
+  background-color: #ccc;
   color: #333;
 }
 
-div {
+main {
   width: 900px;
   margin: 0 auto; 
+}
+
+header {
+  text-align: center;
+}
+
+section {
+  clear: both;
+}
+
+article {
+  float: right;
+  width: 79%;
+}
+aside {
+  float: left;
+  width: 20%;
 }
 
 h1 {
   font-family: Georgia;
   font-weight: bold;
+  font-size: 48px;
+ 
 }
 
 h2 {
-  font-family: Helvetica;
+  font-family: Tahoma;
   font-style: italic;
   color: #666;
 }
 
 h3 {
   font-family: Georgia;
+  padding: 0 20px;
 }
 
-section {
-  display: inline-block;
-  width: auto;
-  height: auto;
-}
-
-img {
-  width: 200px;
-  margin-left: 0;
+h4 {
+  font-family: Georgia;
 }
 
 p {
-  width: auto;
+  color: #333;
+  font-size: 18px;
+  font-family: Lucida Grande;
   vertical-align: top;
-  font-family: Helvetica;
+  padding: 0 20px;
 }
 
-.footer {
-  font-size: 11px;
+footer {
+  clear: both;
+  text-align: center;
 }
