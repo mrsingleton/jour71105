@@ -10,11 +10,8 @@ Do a piece of _explainer_ journalism, designed as a web-based _infographic_, and
 - Use CSS design techniques discussed in class, such as float, flex or inline-block
 - Also use semantic HTML to build your page structure
 
----
-
 ## To submit
 Upload your project files to the Github repository that you've created for this class.
 
----
-
+### Example
 Here's my own working example: [Web Design Explained](https://htmlpreview.github.io/?https://github.com/mrsingleton/jour71105/blob/master/infographic/index.html)
