@@ -7,7 +7,7 @@ body {
 
 /* All page elements will be inside a 900px-wide container block that is also centered */
 main {
-  width: 900px;
+  width: 80%;
   margin: 0 auto; 
 }
 
