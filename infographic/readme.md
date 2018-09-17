@@ -7,3 +7,5 @@ Do a piece of _explainer_ journalism, designed as a web-based _infographic_.
 - Find icons by searching keywords on The Noun Project website
 - Use CSS design techniques discussed in class, such as float, flex or inline-block
 - Also use semantic HTML to build your page structure
+
+Here's an example: [Web Design Explained](https://htmlpreview.github.io/?https://github.com/mrsingleton/jour71105/blob/master/infographic/index.html)
