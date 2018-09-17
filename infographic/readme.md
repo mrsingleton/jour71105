@@ -1,6 +1,6 @@
 # Explainer Infographic Assignment
 
-Due Fri Sep 28
+__Due Fri Sep 28__
 
 Do a piece of _explainer_ journalism, designed as a web-based _infographic_, and related to a news story you are considering reporting.
 
