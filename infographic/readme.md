@@ -11,7 +11,9 @@ __Do a piece of _explainer_ journalism, designed as a web-based _infographic_, a
 - Also use semantic HTML to build your page structure
 
 ## To submit
-Upload your project files to the Github repository that you've created for this class.
+1. Upload your project files to the Github repository that you've created for this class.
+2. Preview your work by entering its index.html file's full URL to Github's [HTML Preview tool](https://htmlpreview.github.io/)
+3. Copy paste that URL into Slack DM!
 
 ### Example
 Here's my own working example: [Web Design Explained](https://htmlpreview.github.io/?https://github.com/mrsingleton/jour71105/blob/master/infographic/index.html)
