@@ -11,5 +11,5 @@ Follow these steps:
 - Create a new "repository" for this assignment.
 - Once you are satisfied with the work you have completed on your computer, upload your project files to the Github repository.
 - Your work will appear under the "Code" section of your repository. Using Github's editing features, you can continue to tweak your code right in the app, however, these updates would now be the most up to date.
-- Preview how your work will appear to me by entering its index.html file's full URL to Github's HTML Preview tool.
+- Preview how your work will appear to me by entering its index.html file's full URL to [Github's HTML Preview tool](https://htmlpreview.github.io/).
 - This will be the URL that you copy paste into a Slack DM with me.
