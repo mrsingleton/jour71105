@@ -4,7 +4,7 @@ __Ensure you format your CSS rules validly by learning the parts that repeat con
 Selectors will differ, but the punctuation used to distiguish properties and values will mostly be the same. Refer to these examples when writing new CSS code or when troubleshooting existing code.
 
 ### Punctuation symbols
-All rules written in CSS have these marks in this exact same order all the time, every time. Even if you look at what seems to be complex CSS code -- for instance, here's [cuny.edu's stylesheet](http://www2.cuny.edu/wp-content/themes/cuny-mpt/style.css), you'll soon notice that all rules include these symbols in this format:
+All rules written in CSS have these marks in this exact same order all the time, every time. Even if you look at what seems to be complex CSS code -- for instance, here's [cuny.edu's stylesheet](http://www2.cuny.edu/wp-content/themes/cuny-mpt/style.css), you'll soon notice that all rules include these symbols in this format:  
 `{` `:` `;` `}`
 
 ### Broken out
