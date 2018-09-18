@@ -31,8 +31,8 @@ Follow this syntax:
 
 ```css
 blockquote {
-	background-image: url("images/bw-woodfloor.jpg");
-	background-repeat: round;
+  background-image: url("images/bw-woodfloor.jpg");
+  background-repeat: round;
   }
 ```
 
