@@ -4,9 +4,8 @@ __You must setup a Github Repository so that you can showcase the functioning ve
 
 When you "turn in" your assignments, you need to copy the full URL of its index.html file and paste it into Github's HTML Preview tool to generate a viewable version, which you'll then share with me via a Slack DM with me.
 
-Follow these steps:
-
-- You will submit files for this assignment using Github, so if you haven't already done so, you must create a free Github account.
+## Follow these steps
+- If you haven't already done so, you must create a free Github account.
 - Be aware that all work uploaded to Github is viewable by the public unless you get private status, which is available for free to students and educators. To take advantage of private repositories, [apply to have student status](https://education.github.com/discount_requests/new) associated with your Github account.
 - Create a new "repository" for this assignment.
 - Once you are satisfied with the work you have completed on your computer, upload your project files to the Github repository.
