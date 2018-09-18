@@ -1,5 +1,7 @@
 # CSS Syntax
-Ensure you format your CSS rules validly by learning the parts that repeat consistently. Selectors will differ, but the punctuation used to distiguish properties and values will mostly be the same. Refer to these examples when writing new CSS code or when troubleshooting existing code.
+__Ensure you format your CSS rules validly by learning the parts that repeat consistently.__
+
+Selectors will differ, but the punctuation used to distiguish properties and values will mostly be the same. Refer to these examples when writing new CSS code or when troubleshooting existing code.
 
 |Element Selector|Open Declaration|Property|Value|Close Declaration|
 |:--:|:--:|:--:|:--:|:--:|
