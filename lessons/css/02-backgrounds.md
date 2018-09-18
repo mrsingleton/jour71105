@@ -6,7 +6,7 @@ CSS features a property that gives you direct control of the web page's backgoun
 
 To control background color, decide which element you want to affect and then apply the `background-color` property to it. To change the background color of an entire web page, apply the rule to HTML's `<body>` element.
 
-Follow this syntax:
+### Follow this syntax:
 
 ```css
 body {
@@ -27,7 +27,7 @@ Similarly, CSS features another property that lets you display a background imag
 
 Again, decide which element you want to affect and then apply the `background-image` property to it. Getting an image requires identifying its URL, so the CSS rule needs you to inclue an image files relative or absolute path.
 
-Follow this syntax:
+### Follow this syntax:
 
 ```css
 blockquote {
