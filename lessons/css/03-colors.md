@@ -10,10 +10,12 @@ h2 {
 
 ## How to identify basic web colors
 
-<div>
-  <div style="background-color:#000; color:#FFF; width:200px; height:200px; margin:10px; display:inline-block;">#000</div>
-  <div style="background-color:#777; color:#000; width:200px; height:200px; margin:10px; display:inline-block;">#777</div>
-  <div style="background-color:#FFF; color:#000; width:200px; height:200px; margin:10px; display:inline-block;">#FFF</div>
-</div>
+<table border="0" cellpadding="10" cellspacing="2" width="100%">
+  <tr align="center" valign="middle">
+    <td style="background-color:#000; color:#FFF;">#000</td>
+    <td style="background-color:#777; color:#000;">#777</td>
+    <td style="background-color:#FFF; color:#000;">#FFF</td>
+  </tr>
+</table>
 
 Here's a pretty good guide: [Web Safe Color Chart](https://htmlcolorcodes.com/color-chart/web-safe-color-chart/)
