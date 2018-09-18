@@ -7,7 +7,7 @@ When you "turn in" your assignments, you need to copy the full URL of its index.
 Follow these steps:
 
 - You will submit files for this assignment using Github, so if you haven't already done so, you must create a free Github account.
-- Be aware that all work uploaded to Github is viewable by the public unless you get private status, which is available for free to students and educators. To take advantage of private repositories, apply to have student status associated with your Github account.
+- Be aware that all work uploaded to Github is viewable by the public unless you get private status, which is available for free to students and educators. To take advantage of private repositories, [apply to have student status](https://education.github.com/discount_requests/new) associated with your Github account.
 - Create a new "repository" for this assignment.
 - Once you are satisfied with the work you have completed on your computer, upload your project files to the Github repository.
 - Your work will appear under the "Code" section of your repository. Using Github's editing features, you can continue to tweak your code right in the app, however, these updates would now be the most up to date.
