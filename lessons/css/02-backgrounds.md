@@ -36,5 +36,5 @@ blockquote {
   }
 ```
 
-## Note
+#### Note
 The round value of the the background-repeat property forces the image to repeat and stretch to fill the space with no gaps.
