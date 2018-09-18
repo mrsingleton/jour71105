@@ -6,7 +6,7 @@ Tags will differ, but the punctuation used to distiguish elements will mostly be
 ### Punctuation symbols
 `<` `=` `""` `>` ... `<` `/` `>`
 
-### Broken down
+### Broken out
 |Opening tag|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|
 |`<a`|`href=`|`"https://ucr.fbi.gov/">`|FBI Uniform Crime Reporting|`</a>`|
