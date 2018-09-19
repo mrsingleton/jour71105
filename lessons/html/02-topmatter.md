@@ -8,11 +8,11 @@ HTML files include information at the beginning of the document that is hidden f
 
 `<html>` part of the structure of the document and contains all subsequent tags. Its `lang` attribute helps accessibility screen readers determine the proper language to speak to users.
 
-`<head>`
+`<head>` starts the section of the document with informative data and links to related files.
 
-`<title>`
+`<title>` official title of document that gets read by search engines and scrapers (over what's included in the `<h1>` tag).
 
-`<meta>`
+`<meta>` details data about the document's 
 
 `<link>`
 
