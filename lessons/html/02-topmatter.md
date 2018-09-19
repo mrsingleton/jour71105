@@ -3,12 +3,19 @@ HTML files include information at the beginning of the document that is hidden f
 
 ## Broken out
 `<!DOCTYPE html>`
+
 `<html>`
+
 `<head>`
+
 `<title>`
+
 `<link>`
+
 `<meta>`
+
 `<script>`
+
 `<style>`
 
 ## Full example
