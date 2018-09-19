@@ -2,9 +2,11 @@
 HTML files include information at the beginning of the document that is hidden from the browser viewport but still detectable by search engines and scrapers. Only special HTML tags can be written into this area because it manages special rules and behavior.
 
 ## Broken out
-`<!DOCTYPE html>`
 
-`<html>`
+`<!DOCTYPE html>` declares the version of HTML to the browser and helps browsers render the markup elements properly. This example declares HTML5, a simplified declaration compared to the standard declaration format of an HTML 4.x document:
+>`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">`
+
+`<html>` part of the structure of the document and contains all subsequent tags. Its `lang` attribute helps accessibility screen readers determine the proper language to speak to users.
 
 `<head>`
 
@@ -21,7 +23,7 @@ HTML files include information at the beginning of the document that is hidden f
 ## Full example
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <title>Page Title</title>
