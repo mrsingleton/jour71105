@@ -47,3 +47,4 @@ To ensure that your HTML documents respond to the rules written in your styleshe
   <link rel="stylesheet" href="styles/main.css" type="text/css">
 </head>
 ```
+Note that the location of the .css file must be specified.
