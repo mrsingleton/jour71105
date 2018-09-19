@@ -12,7 +12,7 @@ HTML files include information at the beginning of the document that is hidden f
 
 `<title>` official title of document that gets read by search engines and scrapers (over what's included in the `<h1>` tag).
 
-`<meta>` details data about the document's 
+`<meta>` gives details about the document's content, info about info, data about data.
 
 `<link>`
 
