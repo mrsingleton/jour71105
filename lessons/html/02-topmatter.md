@@ -1,5 +1,17 @@
 # Top Matter
+HTML files include information at the beginning of the document that is hidden from the browser viewport but still detectable by search engines and scrapers. Only special HTML tags can be written into this area because it manages special rules and behavior.
 
+## Broken out
+`<!DOCTYPE html>`
+`<html>`
+`<head>`
+`<title>`
+`<link>`
+`<meta>`
+`<script>`
+`<style>`
+
+## Full example
 ```html
 <!DOCTYPE html>
 <html>
