@@ -20,7 +20,7 @@ HTML files include information at the beginning of the document that is hidden f
 
 `<script>`
 
-## Full example
+## Typical example
 ```html
 <!DOCTYPE html>
 <html lang="en">
