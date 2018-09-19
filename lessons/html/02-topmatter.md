@@ -3,7 +3,7 @@ HTML files include information at the beginning of the document that is hidden f
 
 ## Broken out
 
-`<!DOCTYPE html>` declares the version of HTML to the browser and helps browsers render the markup elements properly. This example declares HTML5, a simplified declaration compared to the standard declaration format of an HTML 4.x document:
+`<!DOCTYPE html>` declares the version of HTML to the browser and helps browsers render the markup elements properly. This example declares HTML5, a simplified declaration compared to the format required for HTML 4:
 >`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">`
 
 `<html>` part of the structure of the document and contains all subsequent tags. Its `lang` attribute helps accessibility screen readers determine the proper language to speak to users.
