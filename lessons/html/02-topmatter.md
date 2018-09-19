@@ -20,7 +20,7 @@ HTML files include information at the beginning of the document that is hidden f
 
 `<script>`
 
-## Typical example
+### Typical example
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -41,7 +41,7 @@ HTML files include information at the beginning of the document that is hidden f
 ## Connecting your HTML and CSS files
 To ensure that your HTML documents respond to the rules written in your stylesheet file, you must "link" the documents by including a `<link>` tag reference in each HTML file's `<head>` component.
 
-## Example
+### Example
 ```html
 <head>
   <link rel="stylesheet" href="styles/main.css" type="text/css">
