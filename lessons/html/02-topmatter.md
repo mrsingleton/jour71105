@@ -14,11 +14,11 @@ HTML files include information at the beginning of the document that is hidden f
 
 `<meta>` gives details about the document's content, info about info, data about data.
 
-`<link>`
+`<link>` integrates an external file with the HTML file. Typically used to connect to stylesheet files and to favicon images.
 
-`<style>`
+`<style>` used to test style rules in a single web page. Not a best practice to include when the HTML file is part of a multi-page website.
 
-`<script>`
+`<script>` integrates an external script file with the HTML file. used to connect to JavaScript files.
 
 ### Typical example
 ```html
