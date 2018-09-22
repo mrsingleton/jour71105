@@ -22,5 +22,4 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 - Avoid linking phrases such as "Click here" because it's bad for accessibility readers and for search engines.
 
 ## Challenge
-- How would you link to another part of a page?
-- How would you link an image to another page?
+How would you link an image to another page?
