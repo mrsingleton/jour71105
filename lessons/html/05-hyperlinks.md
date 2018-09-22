@@ -1,4 +1,13 @@
 # Hyperlinks
-__Web page to web page linking is the functionality that makes the web the web.__
+__Page to page linking is the functionality that makes the web the web.__
 
-A named page anchor (written using `<a name="#">`) lets a page developer add links within a long document, while a hyperlink reference (written using `<a href="#">`) lets a developer redirect the user over to other pages of the website or out to other sites.
+A page anchor (written using the `<a>` tag, does all the work of what's referred to as _hyperlinking_. The name attribute, (written using `<a name="#">`) lets a page developer add links within a long document, while a hyperlink reference (written using `<a href="#">`) lets a developer redirect the user over to other pages of the website or out to other sites.
+
+## Syntax
+
+
+
+## In action
+```html
+<a href="https://journalism.cuny.edu/">Newmark J School</a>
+```
