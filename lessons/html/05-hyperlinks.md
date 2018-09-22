@@ -12,10 +12,13 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |`<a`|`href=`|`"https://journalism.cuny.edu/"`|`target=`|`"_blank">`|Newmark J School|`</a>`|
 
-## In action
+### In action
 ```html
 <a href="https://journalism.cuny.edu/" target="_blank">Newmark J School</a>
 ```
+
+### Result
+<a href="https://journalism.cuny.edu/" target="_blank">Newmark J School</a>
 
 ## Tips
 - Use linked text to describe clearly what you're linking to.
