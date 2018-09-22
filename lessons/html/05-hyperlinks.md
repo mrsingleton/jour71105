@@ -3,8 +3,8 @@ __Page to page linking is the functionality that makes the web the web.__
 
 A page _anchor_ (written using the `<a>` tag, does all the work of what's referred to as _hyperlinking_.
 
-- The name attribute (written using `<a name="#">`) lets a page developer add links within a long document
-- A hyperlink reference (written using `<a href="#">`) lets a developer redirect the user over to other pages of the website or out to other sites.
+- The __name__ attribute (written using `<a name="#">`) lets a page developer add links within a long document.
+- A __hyperlink reference__ (written using `<a href="#">`) lets a developer point users to other pages of the current website or direct them out to other sites.
 
 ## Syntax
 
