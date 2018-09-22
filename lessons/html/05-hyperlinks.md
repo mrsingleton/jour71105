@@ -5,7 +5,9 @@ A page anchor (written using the `<a>` tag, does all the work of what's referred
 
 ## Syntax
 
-
+|Opening tag|Attribute property|Attribute value|Content|Closing tag|
+|:--:|:--:|:--:|:--:|:--:|
+|`<a`|`href=`|`"https://journalism.cuny.edu/">`|Newmark J School|`</a>`|
 
 ## In action
 ```html
