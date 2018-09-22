@@ -14,5 +14,5 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 
 ## In action
 ```html
-<a href="https://journalism.cuny.edu/ target="_blank">Newmark J School</a>
+<a href="https://journalism.cuny.edu/" target="_blank">Newmark J School</a>
 ```
