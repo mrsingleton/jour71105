@@ -3,16 +3,16 @@ __Page to page linking is the functionality that makes the web the web.__
 
 A page _anchor_ (written using the `<a>` tag, does all the work of what's referred to as _hyperlinking_.
 
-- The __name__ attribute (written using `<a name="#">`) lets a page developer add links within a long document.
-- A __hyperlink reference__ (written using `<a href="#">`) lets a developer point users to other pages of the current website or direct them out to other sites.
+- The most used attribute is the __hyperlink reference__. It lets a you point users to other pages of the current website or direct them out to other sites.
+- The __target__ attribute lets you control where the link being referred to will be loaded and displayed, for instance, in a new browser window.
 
 ## Syntax
 
-|Opening tag|Attribute property|Attribute value|Content|Closing tag|
+|Opening tag|Attribute property|Attribute value|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|
-|`<a`|`href=`|`"https://journalism.cuny.edu/">`|Newmark J School|`</a>`|
+|`<a`|`href=`|`"https://journalism.cuny.edu/">`|`target=`|`"_blank"`|Newmark J School|`</a>`|
 
 ## In action
 ```html
-<a href="https://journalism.cuny.edu/">Newmark J School</a>
+<a href="https://journalism.cuny.edu/ target="_blank"`>Newmark J School</a>
 ```
