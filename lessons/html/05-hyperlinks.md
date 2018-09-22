@@ -23,4 +23,4 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 
 ## Challenge
 1. How would you use linking to create a navigation menu?
-2. How would you man an image in one page link to another web page?
+2. How would you make an image in one page link to another web page?
