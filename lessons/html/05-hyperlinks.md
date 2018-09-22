@@ -18,6 +18,7 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 ```
 
 ### Result
+
 <a href="https://journalism.cuny.edu/" target="_blank">Newmark J School</a>
 
 ## Tips
