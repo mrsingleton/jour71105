@@ -10,7 +10,7 @@ Tags will differ, but the punctuation used to distiguish elements will mostly be
 |Opening tag|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|
 |`<a`|`href=`|`"https://ucr.fbi.gov/">`|FBI Uniform Crime Reporting|`</a>`|
-|`<h2`|`class=`|`"subhead">`|Authorities investigating cause of incident|`</h2>`|
+|`<h2`|`class=`|`"subhead">`|Authorities to begin investigating the cause of the incident|`</h2>`|
 
 ### End result
 ```html
