@@ -10,9 +10,9 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 
 |Opening tag|Attribute property|Attribute value|Attribute property|Attribute value|Content|Closing tag|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|`<a`|`href=`|`"https://journalism.cuny.edu/">`|`target=`|`"_blank"`|Newmark J School|`</a>`|
+|`<a`|`href=`|`"https://journalism.cuny.edu/"`|`target=`|`"_blank">`|Newmark J School|`</a>`|
 
 ## In action
 ```html
-<a href="https://journalism.cuny.edu/ target="_blank"`>Newmark J School</a>
+<a href="https://journalism.cuny.edu/ target="_blank">Newmark J School</a>
 ```
