@@ -16,3 +16,14 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 ```html
 <a href="https://journalism.cuny.edu/" target="_blank">Newmark J School</a>
 ```
+
+## Tip
+- Use linked text to describe clearly what you're linking to.
+- Avoid linking phrases such as "Click here" because it's bad for accessibility readers and for search engines.
+
+## Practice
+tk
+
+## Challenge
+How would you link to another part of a page?
+How would you link an image to another page?
