@@ -13,6 +13,8 @@ A basic and key feature of a web page is the ability to display digital images. 
 
 Note that image elements are _self-closing_ and basically consider the source file as their content.
 
+---
+
 <img src="https://www.journalism.cuny.edu/wp-content/uploads/2017/05/latino_media_summit-miguel-paz-crop.jpg" width="75%" />
 
 ## Challenge
