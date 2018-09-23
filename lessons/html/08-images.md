@@ -8,14 +8,14 @@ A basic and key feature of a web page is the ability to display digital images. 
 
 ## Example
 ```html
-<img src="https://i.imgur.com/uWBIxRe.jpg" />
+<figure><img src="https://i.imgur.com/uWBIxRe.jpg" /></figure>
 ```
 
 Note that image elements are _self-closing_ and basically consider the source file as their content.
 
 ---
 
-<img src="https://i.imgur.com/uWBIxRe.jpg" width="75%" />
+<figure><img src="https://i.imgur.com/uWBIxRe.jpg" width="75%" /></figure>
 
 ## Challenge
 1. Use the image source above to adjust values for the `width` and `height` attributes to understand how image dimensions behave. First try pixel values, then try percent values.
