@@ -25,5 +25,5 @@ A page _anchor_ (written using the `<a>` tag, does all the work of what's referr
 - Avoid linking phrases such as "Click here" because it's bad for accessibility readers and for search engines.
 
 ## Challenge
-1. How would you use linking to create a navigation menu?
-2. How would you make an image in one page link to another web page?
+1. Imagine you're building a portfolio site. How would you use hyperlinking to make your navigation menu work? Use nav links such as "Home", "About", "News", "Samples" in this menu.
+2. How would you make an image in one page link over to another web page?
