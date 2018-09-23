@@ -20,4 +20,4 @@ Also note that image elements are _self-closing_ and they basically consider the
 
 ## Challenge
 1. Use the image source above to adjust values for the `width` and `height` attributes to understand how image dimensions behave. First try pixel values, then try percent values.
-2. Use a few paragraphs of "[Lorem Ipsum](https://lipsum.com/)" dummy text to practice wrapping text around an image by using the `align` attribute.
+2. Use the `<img>` element without the `<figure>` element. Instead, use it inline within a few paragraphs `<p>...</p>` of "[Lorem Ipsum](https://lipsum.com/)" dummy text to practice wrapping text around an image by using the `align` attribute.
