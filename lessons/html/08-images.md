@@ -13,7 +13,7 @@ A basic and key feature of a web page is the ability to display digital images. 
 
 Note that image elements are _self-closing_ and basically consider the source file as their content.
 
-<img src="https://www.journalism.cuny.edu/wp-content/uploads/2017/05/latino_media_summit-miguel-paz-crop.jpg" width="800" />
+<img src="https://www.journalism.cuny.edu/wp-content/uploads/2017/05/latino_media_summit-miguel-paz-crop.jpg" width="50%" />
 
 ## Challenge
 1. Use the image source above to adjust values for the `width` and `height` attributes to understand how image dimensions behave.
