@@ -42,9 +42,14 @@ Great. You owe me a beer.
 
 https://twitter.com/NYUHistory/status/913082618543042560
 
--
+---
 
 ## Challenge
-- test all of the attributes of the iframe tag
-- embed the following: tweet, IG post, youtube video, soundcloud audio, google map, drive slides, 
-
+1. test all of the attributes of the iframe tag
+2. Embed the following in your practice web page:
+- A tweet
+- An Instagram post
+- A YouTube video
+- Soundcloud audio
+- A Google Maps example
+- A Google Drive Slides presentation 
