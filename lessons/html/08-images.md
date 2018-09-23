@@ -4,7 +4,7 @@ A basic and key feature of a web page is the ability to display digital images. 
 ## Syntax
 |Opening tag|Attribute property|Attribute value|Closing tag|
 |:--:|:--:|:--:|:--:|
-|`<img`|`src=`|`"https://www.journalism.cuny.edu/...latino_media_summit-miguel-paz-crop.jpg"`|`/>`|
+|`<img`|`src=`|`"https://www.journalism.cuny.edu/wp-content/uploads/2017/05/latino_media_summit-miguel-paz-crop.jpg"`|`/>`|
 
 ## Example
 ```html
@@ -12,6 +12,8 @@ A basic and key feature of a web page is the ability to display digital images. 
 ```
 
 Note that image elements are _self-closing_ and basically consider the source file as their content.
+
+<img src="https://www.journalism.cuny.edu/wp-content/uploads/2017/05/latino_media_summit-miguel-paz-crop.jpg" width="200" />
 
 ## Challenge
 1. Use the image source above to adjust values for the `width` and `height` attributes to understand how image dimensions behave.
