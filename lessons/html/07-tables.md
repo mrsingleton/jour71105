@@ -1,9 +1,21 @@
 # Tables
-Used for the display of tabular data, not for page element layout.
+Tables are versatile, however, as a best practice, they should only be used to display tabular data in columns and rows, and not used for the grid layout of page components.
 
-Let's revisit the ordered list example, which is a ranking of US cities by population. To include the actual population figures, plus other related info such as state, it is best to use a data table.
+## Elements
+To create an HTML table's columns and rows, use the following tags:
+`<table>`
+`<tr>`
+`<th>`
+`<td>`
+
+multiple consecutive
+:	definition term resp.
+:	definition sequences
+
 
 ## Example
+Let's revisit the ordered list example, which is a ranking of US cities by population. To include the actual population figures, plus other related info such as state, it is best to use a data table.
+
 ```html
 <table>
   <tr>
