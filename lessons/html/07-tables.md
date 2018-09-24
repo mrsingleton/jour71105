@@ -50,12 +50,4 @@ Let's revisit the ordered list example, which is a ranking of US cities by popul
   </tr>
 </table>
 
-|Rank|City|State|Population|
-|:--:|:--|:--:|:--|
-|1|New York City|NY|8,622,698|
-|2|Los Angeles|CA|3,999,759|
-|3|Chicago|IL|2,716,450|
-|4|Houston|TX|2,312,717|
-|5|Phoenix|AZ|1,626,078|
-
 ## Challenge
