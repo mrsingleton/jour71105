@@ -17,7 +17,16 @@ This list type treats all list items the same and only places bullet dots next t
   <li>Houston</li>
   <li>Philadelphia</li>
 </ol>
+```
+which yields
 
+1. New York City
+2. Los Angeles
+3. Chicago
+4. Houston
+5. Philadelphia
+
+```html
 <ul>
   <li>Grapes</li>
   <li>Oranges</li>
@@ -26,6 +35,13 @@ This list type treats all list items the same and only places bullet dots next t
   <li>Pears</li>
 </ul>
 ```
+which yields
+
+- Grapes
+- Oranges
+- Apples
+- Peaches
+- Pears
 
 ## Challenge
 Revisit the navigation menu you created for the Hyperlink lesson's challenge. If you were to give these top level menu items submenu items listed beneath each, how would you use the _attributes_ of ordered lists to create a site map?
