@@ -9,7 +9,7 @@ To create an HTML table's columns and rows, use the following tags:
 `<td>`
 
 multiple consecutive
-:	definition term resp.
+:	 definition term resp.
 
 
 ## Example
