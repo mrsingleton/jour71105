@@ -3,13 +3,18 @@ Tables are versatile, however, as a best practice, they should only be used to d
 
 ## Elements
 To create an HTML table's columns and rows, use the following tags:
-`<table>`
-`<tr>`
-`<th>`
-`<td>`
 
-multiple consecutive
-:	 definition term resp.
+### `<table>`
+Begins and ends the table.
+
+### `<tr>`
+Table Row begins and ends each row.
+
+### `<th>`
+Table Head is used for the table head row only.
+
+### `<td>`
+Table Data is used for each individual table cell.
 
 
 ## Example
