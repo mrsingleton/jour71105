@@ -15,7 +15,7 @@ This list type treats all list items the same and only places bullet dots next t
   <li>Los Angeles</li>
   <li>Chicago</li>
   <li>Houston</li>
-  <li>Philadelphia</li>
+  <li>Phoenix</li>
 </ol>
 ```
 which yields:
@@ -24,7 +24,7 @@ which yields:
 2. Los Angeles
 3. Chicago
 4. Houston
-5. Philadelphia
+5. Phoenix
 
 ```html
 <ul>
