@@ -1,5 +1,5 @@
 # Lists
-HTML lets you organize content into list format for legibility and also usability. There are two types of lists.
+HTML lets you organize content into list format for legibility and also usability. There are two types of lists -- ordered lists, which are controled by the `<ol>` element; and unordered lists, which are controled by the `<ul>` element.
 
 ## Ordered Lists
 This list type recognizes each list item as being part of a numbered sequence. It places numbers to the left of each list item beginning with 1, 2, 3 and so on. If you rearrange list items, the numnbering will keep the standard, ordered sequence. This type is best used for listing items that make sense if put into a strict order, such as a ranking.
