@@ -18,7 +18,7 @@ This list type treats all list items the same and only places bullet dots next t
   <li>Philadelphia</li>
 </ol>
 ```
-which yields
+which yields:
 
 1. New York City
 2. Los Angeles
@@ -35,7 +35,7 @@ which yields
   <li>Pears</li>
 </ul>
 ```
-which yields
+which yields:
 
 - Grapes
 - Oranges
