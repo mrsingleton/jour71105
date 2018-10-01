@@ -16,10 +16,10 @@ header {
   text-align: center;
 }
 
-/* each new section will clear both columns and go again directly beneath */
+/* each new section will clear both columns and go again directly beneath
 section {
   clear: both;
-}
+} */
 
 /* used for text blurb, "floated" to the right of the aside witht the icon image */
 article {
