@@ -1,7 +1,7 @@
 # Aggregate Functions
 
 ## Count
-Returns a count of the number of values in a dataset. To take inventory of how many items you're working with, use the following function:
+Counts the number of values in a dataset. To take inventory of how many items you're working with, use the following function:
 
 ```excel
 =COUNT(value1, [value2, value3 ...])
