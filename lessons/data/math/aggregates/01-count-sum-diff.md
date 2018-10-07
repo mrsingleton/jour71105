@@ -1,5 +1,24 @@
-# Count vs Sum
+# Aggregate Functions
 
+## Count
+Returns a count of the number of values in a dataset. To take inventory of how many items you're working with, use the following function:
+
+```excel
+=COUNT(value1, [value2, value3 ...])
+```
+
+_value1_ is the first value or range to consider when counting, while _value2, value3..._ are optional, additional values or ranges to consider when counting.
+
+### Example
+
+```excel
+COUNT(A12:A94, B3:B57)
+```
+
+## Sum
+
+
+## Count vs Sum
 Here's a great way to think about the difference between counting versus summing. Think about how many units of currency there are in circulation in the United States today.
 
 ![Silvrback blog image](https://silvrback.s3.amazonaws.com/uploads/ed7f5ac0-e196-4323-bb1d-c46ecfb7fc25/usd-coins_crop_large.jpg)
@@ -16,5 +35,5 @@ In one case you count, in the other case you sum. While you can __COUNT__ both n
 
 __IMPORTANT: When you count and/or sum, the figures that the spreadsheet displays are not actual numbers within the data, rather they are results of calculations performed on the fly, called "aggregate functions."__
 
-# Difference
+## Difference
 
