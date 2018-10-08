@@ -1,31 +1,25 @@
 # Count and Sum
 
 ## How Many?
-Use the `COUNT()` function to answer the question, "how many?" It returns a tally of how many numeric values there are in a given range of cells. To take inventory of how many numbers there are in a range, use the following function:
-```
-=COUNT(cell range)
-```
-Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
+Use the `=COUNT()` function to answer the question, "how many?" It returns a tally of how many __numeric__ values there are in a given range of cells, allowing you to take inventory of a certain set of values.
 
-### Example
-```
-=COUNT(A1:A11)
-```
+|Syntax|Example|
+|:--|:--|
+|`=COUNT(cell range)`|`=COUNT(A1:A11)`|
 
 ## How Much?
-Use the `SUM` function to answer the question, "how much?" It returns the sum of a range of numbers and/or cells.
-```
-=SUM(cell range)
-```
-Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
+Use the `=SUM()` function to answer the question, "how much?" It returns a calculated sum of a given range of numbers and/or cells.
 
-### Example
-```
-=SUM(A2:A11)
-```
+|Syntax|Example|
+|:--|:--|
+|`=SUM(cell range)`|`=SUM(A2:A11)`|
 
 ### Practice
 Use the Count and Sum functions on the following campaign donations
+
+|Donor|Type|Recipient|Party|Amount|
+|:--|:--|:--|:--|--:|
+|tk|Individual|tk|Democrats|$50|
 
 
 ### Tips
