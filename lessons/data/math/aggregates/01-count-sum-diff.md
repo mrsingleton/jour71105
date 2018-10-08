@@ -1,17 +1,15 @@
-# Count, Sum, Difference
+# Count, Sum, and Difference
 
 ## How Many?
 Use the `COUNT()` function to answer the question, "how many?" It returns a tally of how many numeric values there are in a given range of cells. To take inventory of how many numbers there are in a range, use the following function:
-
 ```
 =COUNT(cell range)
 ```
-
-Here, _cell range_ is the set of values to include, and the syntax is A1:A100.
+Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
 
 ### Example
 ```
-COUNT(A12:A94)
+=COUNT(A1:A11)
 ```
 
 ### Tips
@@ -22,19 +20,16 @@ COUNT(A12:A94)
 ---
 
 ## How Much?
-Use the `SUM` function to answer the question, "how much?" It returns the sum of a series of numbers and/or cells.
+Use the `SUM` function to answer the question, "how much?" It returns the sum of a range of numbers and/or cells.
 ```
-=SUM(value1, value2, value3)
+=SUM(cell range)
 ```
+Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
 
 ### Example
 ```
-=SUM(A2:A100)
-=SUM(1,2,3,4,5)
-=SUM(1,2,A2:A50)
+=SUM(A2:A11)
 ```
-
-Here, _value1_ is the first number or range to add together, and _value2, value3..._ are optional, additional numbers or ranges to add to value1.
 
 [More about SUM](https://youtu.be/OaPGxBB0uxk)
 
@@ -58,4 +53,6 @@ In one case you count, in the other case you sum. While you can __COUNT__ both n
 __IMPORTANT: When you count and/or sum, the figures that the spreadsheet displays are not actual numbers within the data, rather they are results of calculations performed on the fly, called "aggregate functions."__
 
 ## Difference
+
+## Quotient
 
