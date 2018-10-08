@@ -1,23 +1,26 @@
 # Count, Sum, Difference
 
 ## How Many?
-Use the `COUNT` function to answer the question, "how many?" It returns the number of values in a dataset or in a given range of cells. To take inventory of how many items there are in a given set of values and/or in a given range, use the following function:
+Use the `COUNT()` function to answer the question, "how many?" It returns a tally of how many numeric values there are in a given range of cells. To take inventory of how many numbers there are in a range, use the following function:
 
 ```
-=COUNT(values)
-=COUNT(range)
-```
-or
-```
-=COUNT(value1, value2, range1, range2 ...)
+=COUNT(cell range)
 ```
 
-Here, _range1_ is the range of values to consider when counting, and _range2, range3..._ are optional, additional ranges to include.
+Here, _cell range_ is the set of values to include, and the syntax is A1:A100.
 
 ### Example
 ```
-COUNT(A12:A94, B3:B57)
+COUNT(A12:A94)
 ```
+
+[More about COUNT]()
+
+### Tips
+You can include multiple ranges by separating each with a comma.
+You can count non-consecutive cells by including each, separated by a comma.
+If you need to count data types other than numbers, i.e. text cells or blank cells, use `=COUNTA()` to _count all_ data types.
+If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
 
 ---
 
@@ -36,6 +39,9 @@ Use the `SUM` function to answer the question, "how much?" It returns the sum of
 
 Here, _value1_ is the first number or range to add together, and _value2, value3..._ are optional, additional numbers or ranges to add to value1.
 
+[More about SUM](https://youtu.be/OaPGxBB0uxk)
+
+---
 
 ## Count vs Sum
 Here's a great way to think about the difference between counting versus summing. Think about how many units of currency there are in circulation in the United States today.
