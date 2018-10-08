@@ -4,11 +4,11 @@ As you research, you'll think of certain questions (or your editor will ask you 
 
 |Question type|Function type|
 |:--|:--|
-|How many...|Count|
-|How much...|Sum|
-|What's the most... What's the highest...|Max|
-|What's the least... What's the lowest...|Min|
-|What are the top 10... top 20... bottom 5...|Rank|
+|How many...|`=COUNT()`|
+|How much...|`=SUM()`|
+|What's the most... What's the highest...|`=MAX()`|
+|What's the least... What's the lowest...|`=MIN()`|
+|How does this rank?|`=RANK()`|
 
 ## Read more
 - [Count, Sum](01-count-sum.md)
