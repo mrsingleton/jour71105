@@ -51,3 +51,7 @@ their _sum total amount_ is __$190.91__.
 In one case you count, in the other case you sum. While you can __COUNT__ both numeric and non-numeric data, you can only __SUM__ numeric data. Why is this the case?
 
 __IMPORTANT: When you count and/or sum, the figures that the spreadsheet displays are not actual numbers within the data, rather they are results of calculations performed on the fly, called "aggregate functions."__
+
+---
+Next: [Max, Min, Rank](02-max-min-rank.md)
+---
