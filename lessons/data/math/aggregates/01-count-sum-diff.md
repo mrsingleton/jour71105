@@ -1,17 +1,17 @@
 # Aggregate Functions
 
 ## Count
-Counts the number of values in a dataset. To take inventory of how many items you're working with, use the following function:
+The COUNT function returns the number of values in a dataset or in a given range of cells. To take inventory of how many items there are in a given range, use the following function:
 
-```excel
+```
 =COUNT(value1, [value2, value3 ...])
 ```
 
-_value1_ is the first value or range to consider when counting, while _value2, value3..._ are optional, additional values or ranges to consider when counting.
+Where _value1_ is the first value or range to consider when counting, and _value2, value3..._ are optional, additional values or ranges to consider.
 
 ### Example
 
-```excel
+```
 COUNT(A12:A94, B3:B57)
 ```
 
