@@ -9,7 +9,7 @@ Use the `=COUNT()` function to answer the question, "how many?" It returns a tal
 |`=COUNT(cell range)`|`=COUNT(A1:A11)`|
 
 ## How Much?
-Use the `=SUM()` function to answer the question, "how much?" It returns a calculated sum of a given range of numbers and/or cells.
+Use the `=SUM()` function to answer the question, "how much?" It returns a calculated sum in a selection of cells or from a given range of cells.
 
 |Syntax|Example|
 |:--|:--|
