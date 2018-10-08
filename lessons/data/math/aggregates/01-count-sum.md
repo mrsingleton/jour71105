@@ -1,17 +1,19 @@
 # Count and Sum
 
 ## How Many?
-Use the `=COUNT()` function to answer the question, "how many?" It returns a tally of how many __numeric__ values there are in a given range of cells, allowing you to take inventory of a certain set of values.
+Use the `=COUNT()` function to answer the question, "how many?" It returns a tally of how many __numeric__ values there are in a selection of cells or in a given range of cells, allowing you to take inventory of a certain set of values.
 
 |Syntax|Example|
 |:--|:--|
 |`=COUNT(cell range)`|`=COUNT(A1:A11)`|
+|`=COUNT(cell1,cell2,cell3...)`|`=COUNT(A3,A5,A8,A9...)`|
 
 ## How Much?
 Use the `=SUM()` function to answer the question, "how much?" It returns a calculated sum of a given range of numbers and/or cells.
 
 |Syntax|Example|
 |:--|:--|
+|`=SUM(cell1,cell2,cell3...)`|`=SUM(A3,A5,A8,A9...)`|
 |`=SUM(cell range)`|`=SUM(A2:A11)`|
 
 ### Tips
