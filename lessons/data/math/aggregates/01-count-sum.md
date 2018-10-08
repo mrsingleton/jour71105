@@ -14,20 +14,26 @@ Use the `=SUM()` function to answer the question, "how much?" It returns a calcu
 |:--|:--|
 |`=SUM(cell range)`|`=SUM(A2:A11)`|
 
-### Practice
-Use the Count and Sum functions on the following campaign donations
-
-|Donor|Type|Recipient|Party|Amount|
-|:--|:--|:--|:--|--:|
-|tk|Individual|tk|Democrats|$50|
-
-
 ### Tips
 - You can include multiple ranges and/or non-consecutive cells in these functions by separating each element with a comma.
 - If you need to count data types other than numbers, i.e. text cells or blank cells, use `=COUNTA()` to _count all_ data types.
 - If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
 - If you need to sum items based on certain criteria, use `=SUMIF()` to only _sum if_ given conditions are met.
 - The `=SUM()` function also handles _difference_ calculations when summing negative values.
+
+### Challenge
+Use the Count and Sum functions on the following campaign donations
+
+|Donor|Type|Recipient|Party|Amount|
+|:--|:--|:--|:--|--:|
+|tk|Individual|tk|Democrats|$50|
+
+Copy and paste this data into your spreadsheet app and do the following:
+1. Find how many donations there are for each party.
+2. Find how many donors were individuals and how many were corporations.
+3. Find how much the donors gave to each party.
+4. Find how much came from individuals and how much came from corporations.
+5. Find how much donation money there is overall.
 
 ---
 
