@@ -10,6 +10,6 @@ As you research, you'll think of certain questions (or your editor will ask you 
 |What's the least... What's the lowest...|Min|
 |What are the top 10... top 20... bottom 5...|Rank|
 
-## tk
+## Read more
 - [Count, Sum](01-count-sum.md)
 - [Max, Min, Rank](02-max-min-rank.md)
