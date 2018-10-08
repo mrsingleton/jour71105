@@ -49,7 +49,7 @@ Copy and paste this data into your spreadsheet app and do the following:
 ---
 
 ## Count vs Sum
-Here's a great way to think about the difference between counting versus summing. Think about how many units of currency there are in circulation in the United States today.
+Here's a great way to think about the difference between counting versus summing. Think about the units of currency in circulation in the United States today.
 
 ![Silvrback blog image](https://silvrback.s3.amazonaws.com/uploads/ed7f5ac0-e196-4323-bb1d-c46ecfb7fc25/usd-coins_crop_large.jpg)
 
@@ -57,7 +57,7 @@ Here's a great way to think about the difference between counting versus summing
 
 If you _count the units_, they equal __14__ -- we have the penny, nickel, dime, quarter, half-dollar, and two versions of the dollar as the [current coins](https://www.usmint.gov/mint_programs/circulatingCoins/). And then the [current treasury notes](https://www.treasury.gov/resource-center/faqs/Currency/Pages/denominations.aspx) are the one, two, five, ten, twenty, fifty and hundred dollar bills.
 
-Yet if you add their values together:
+Yet if you add their values together:  
 $0.01 + $0.05 + $0.10 + $0.25 + $0.50 + $1.00 + $1.00 + $1 + $2 + $5 + $10 + $20 + $50 + $100
 their _sum total amount_ is __$190.91__.
 
