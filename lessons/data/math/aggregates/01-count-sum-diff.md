@@ -4,10 +4,14 @@
 The COUNT function returns the number of values in a dataset or in a given range of cells. To take inventory of how many items there are in a given range, use the following function:
 
 ```
-=COUNT(value1, [value2, value3 ...])
+=COUNT(value)
+```
+or
+```
+=COUNT(value1, value2, value3 ...)
 ```
 
-Where _value1_ is the first value or range to consider when counting, and _value2, value3..._ are optional, additional values or ranges to consider.
+Where _value1_ is the value or range to consider when counting, and _value2, value3..._ are optional, additional values or ranges to consider.
 
 ### Example
 
