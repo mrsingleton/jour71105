@@ -19,10 +19,10 @@ Use the `=SUM()` function to answer the question, "how much?" It returns a calcu
 ### Tips
 - You can include multiple ranges and/or non-consecutive cells in these functions by separating each element with a comma.
 - If you need to count data types other than numbers, i.e. text cells or blank cells, use [`=COUNTA()`](https://support.google.com/docs/answer/3093991?hl=en&authuser=0) to _count all_ data types.
-- If you need to count items based on certain criteria, use [`=COUNTIF()`](https://support.google.com/docs/answer/3093480?hl=en&authuser=0) to only _count if_ given conditions are met.
-- If you need to sum items based on certain criteria, use [`=SUMIF()`](https://support.google.com/docs/answer/3093583?hl=en&authuser=0) to only _sum if_ given conditions are met.
+- If you need to count items (numeric or text) based on certain criteria, use [`=COUNTIF()`](https://support.google.com/docs/answer/3093480?hl=en&authuser=0) to only _count if_ given conditions are met.
+- If you need to sum figures based on certain criteria, use [`=SUMIF()`](https://support.google.com/docs/answer/3093583?hl=en&authuser=0) to only _sum if_ given conditions are met.
 - The `=SUM()` function also handles _difference_ calculations when summing negative values.
-- To count just the unique values in a set, use the [`=COUNTUNIQUE()`](https://support.google.com/docs/answer/3093405?hl=en&authuser=0) function.
+- To count just the unique values (numeric or text) in a set, use the [`=COUNTUNIQUE()`](https://support.google.com/docs/answer/3093405?hl=en&authuser=0) function.
 - There are lots of functions for lots of purposes. See Google Sheets' [functions list](https://support.google.com/docs/table/25273?hl=en&ref_topic=3105474&authuser=0) for more.
 
 ### Challenge
