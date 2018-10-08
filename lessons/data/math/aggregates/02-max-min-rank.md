@@ -1,8 +1,7 @@
 ## What's the most?
 To find the greatest or highest value, use the `=MAX()` function, which returns the maximum value in a given range of numeric data cells.
 
-### Example
-
+|Example|
 |:--|
 |`=MAX(A3,A5,A8,A9...)`|
 
