@@ -6,5 +6,5 @@ To find the greatest or highest value, use the `=MAX()` function.
 To find the smallest or lowest value, use the `=MIN()` function.
 
 
-## What's their order?
-To find the top 10 or the bottom 5, use the `=RANK()` function.
+## How does that rank?
+To find a value's position among a hierarchy, use the `=RANK()` function.
