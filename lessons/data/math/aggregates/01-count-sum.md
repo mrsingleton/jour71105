@@ -40,11 +40,12 @@ Use the Count and Sum functions on the following campaign donations.
 |10|Virtual Malls|Corporation|RNC|Republicans|$9,463,800|
 
 Copy and paste this data into your spreadsheet app and do the following:
-1. Find how many donations there are for each party.
-2. Find how many donors were individuals and how many were corporations.
-3. Find how much the donors gave to each party.
-4. Find how much came from individuals and how much came from corporations.
-5. Find how much donation money there is overall.
+1. Find how many donors there are overall.
+2. Find how much donation money there is overall.
+3. Find how many donations there are for each party.
+4. Find how many donors were individuals and how many were corporations.
+5. Find how much the donors gave to each party.
+6. Find how much came from individuals and how much came from corporations.
 
 ---
 
