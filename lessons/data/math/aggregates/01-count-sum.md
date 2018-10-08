@@ -5,8 +5,8 @@ Use the `=COUNT()` function to answer the question, "how many?" It returns a tal
 
 |Syntax|Example|
 |:--|:--|
-|`=COUNT(cell range)`|`=COUNT(A1:A11)`|
 |`=COUNT(cell1,cell2,cell3...)`|`=COUNT(A3,A5,A8,A9...)`|
+|`=COUNT(cell range)`|`=COUNT(A1:A11)`|
 
 ## How Much?
 Use the `=SUM()` function to answer the question, "how much?" It returns a calculated sum of a given range of numbers and/or cells.
