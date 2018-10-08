@@ -29,4 +29,4 @@ There's also `=MAXA()` and `=MINIF()` etc.
 Use the same campaign donations data from the [COUNT/SUM lesson](01-count-sum.md) and answer the following questions:
 1. What is the greatest amount donated to Democrats?
 2. What is the least amount donated by a corporation?
-3. What is the rank of the 
+3. What is the rank of the donation from Freedom Foundation?
