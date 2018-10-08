@@ -1,25 +1,40 @@
-# Aggregate Functions
+# Count, Sum, Difference
 
-## Count
-The COUNT function returns the number of values in a dataset or in a given range of cells. To take inventory of how many items there are in a given range, use the following function:
+## How Many?
+Use the `COUNT` function to answer the question, "how many?" It returns the number of values in a dataset or in a given range of cells. To take inventory of how many items there are in a given set of values and/or in a given range, use the following function:
 
 ```
-=COUNT(value)
+=COUNT(values)
+=COUNT(range)
 ```
 or
 ```
-=COUNT(value1, value2, value3 ...)
+=COUNT(value1, value2, range1, range2 ...)
 ```
 
-Where _value1_ is the value or range to consider when counting, and _value2, value3..._ are optional, additional values or ranges to consider.
+Here, _range1_ is the range of values to consider when counting, and _range2, range3..._ are optional, additional ranges to include.
 
 ### Example
-
 ```
 COUNT(A12:A94, B3:B57)
 ```
 
-## Sum
+---
+
+## How Much?
+Use the `SUM` function to answer the question, "how much?" It returns the sum of a series of numbers and/or cells.
+```
+=SUM(value1, value2, value3)
+```
+
+### Example
+```
+=SUM(A2:A100)
+=SUM(1,2,3,4,5)
+=SUM(1,2,A2:A50)
+```
+
+Here, _value1_ is the first number or range to add together, and _value2, value3..._ are optional, additional numbers or ranges to add to value1.
 
 
 ## Count vs Sum
