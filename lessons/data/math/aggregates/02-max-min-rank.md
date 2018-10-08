@@ -3,8 +3,8 @@ To find the greatest or highest value, use the `=MAX()` function, which returns 
 
 ### Example
 
-|`=MAX(A3,A5,A8,A9...)`|
 |:--|
+|`=MAX(A3,A5,A8,A9...)`|
 
 ## What's the least?
 To find the smallest or lowest value, use the `=MIN()` function.
