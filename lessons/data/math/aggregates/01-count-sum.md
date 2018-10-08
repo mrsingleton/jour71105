@@ -1,4 +1,4 @@
-# Count, Sum, and Difference
+# Count and Sum
 
 ## How Many?
 Use the `COUNT()` function to answer the question, "how many?" It returns a tally of how many numeric values there are in a given range of cells. To take inventory of how many numbers there are in a range, use the following function:
