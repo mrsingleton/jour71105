@@ -24,7 +24,9 @@ Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
 =SUM(A2:A11)
 ```
 
-[More about SUM](https://youtu.be/OaPGxBB0uxk)
+### Practice
+Use the Count and Sum functions on the following campaign donations
+
 
 ### Tips
 - You can include multiple ranges and/or non-consecutive cells in these functions by separating each element with a comma.
