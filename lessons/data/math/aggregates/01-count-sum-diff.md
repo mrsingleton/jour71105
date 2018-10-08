@@ -17,10 +17,9 @@ COUNT(A12:A94)
 [More about COUNT]()
 
 ### Tips
-You can include multiple ranges by separating each with a comma.
-You can count non-consecutive cells by including each, separated by a comma.
-If you need to count data types other than numbers, i.e. text cells or blank cells, use `=COUNTA()` to _count all_ data types.
-If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
+- You can include multiple ranges and/or non-consecutive cells by separating each with a comma.
+- If you need to count data types other than numbers, i.e. text cells or blank cells, use `=COUNTA()` to _count all_ data types.
+- If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
 
 ---
 
