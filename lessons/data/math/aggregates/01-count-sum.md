@@ -34,7 +34,7 @@ Use the Count and Sum functions on the following campaign donations.
 |04|Media Market|Corporation|Congresswoman Williams|Democrats|$6,700|
 |05|Betty Andrews|Individual|RNC|Republicans|$90|
 |06|George Smith|Individual|Mayor Collins|Democrats|$380|
-|07|Mega Manufacturing|Corporation|Governor Roberts|Democrats|$725|
+|07|Mega Manufacturing|Corporation|Governor Roberts|Republicans|$725|
 |08|Pharma Well|Corporation|Senator Davis|Republicans|$5,650|
 |09|Harry Peterson|Individual|DNC|Democrats|$1,200|
 |10|Virtual Malls|Corporation|RNC|Republicans|$9,463,800|
