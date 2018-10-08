@@ -12,13 +12,6 @@ Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
 =COUNT(A1:A11)
 ```
 
-### Tips
-- You can include multiple ranges and/or non-consecutive cells by separating each with a comma.
-- If you need to count data types other than numbers, i.e. text cells or blank cells, use `=COUNTA()` to _count all_ data types.
-- If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
-
----
-
 ## How Much?
 Use the `SUM` function to answer the question, "how much?" It returns the sum of a range of numbers and/or cells.
 ```
@@ -32,6 +25,13 @@ Here, _cell range_ is the set of values to include, and the syntax is A1:A11.
 ```
 
 [More about SUM](https://youtu.be/OaPGxBB0uxk)
+
+### Tips
+- You can include multiple ranges and/or non-consecutive cells in these functions by separating each element with a comma.
+- If you need to count data types other than numbers, i.e. text cells or blank cells, use `=COUNTA()` to _count all_ data types.
+- If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
+- If you need to sum items based on certain criteria, use `=SUMIF()` to only _sum if_ given conditions are met.
+- The `=SUM()` function also handles _difference_ calculations when summing negative values.
 
 ---
 
@@ -51,8 +51,3 @@ their _sum total amount_ is __$190.91__.
 In one case you count, in the other case you sum. While you can __COUNT__ both numeric and non-numeric data, you can only __SUM__ numeric data. Why is this the case?
 
 __IMPORTANT: When you count and/or sum, the figures that the spreadsheet displays are not actual numbers within the data, rather they are results of calculations performed on the fly, called "aggregate functions."__
-
-## Difference
-
-## Quotient
-
