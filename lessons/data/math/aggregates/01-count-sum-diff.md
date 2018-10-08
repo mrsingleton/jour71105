@@ -36,7 +36,7 @@ Use the `SUM` function to answer the question, "how much?" It returns the sum of
 
 Here, _value1_ is the first number or range to add together, and _value2, value3..._ are optional, additional numbers or ranges to add to value1.
 
-<a href="https://youtu.be/OaPGxBB0uxk" target="_blank">More about SUM</a>
+[More about SUM](https://youtu.be/OaPGxBB0uxk)
 
 ---
 
