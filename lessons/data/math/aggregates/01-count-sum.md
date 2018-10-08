@@ -22,6 +22,7 @@ Use the `=SUM()` function to answer the question, "how much?" It returns a calcu
 - If you need to count items based on certain criteria, use `=COUNTIF()` to only _count if_ given conditions are met.
 - If you need to sum items based on certain criteria, use `=SUMIF()` to only _sum if_ given conditions are met.
 - The `=SUM()` function also handles _difference_ calculations when summing negative values.
+- To count just the unique values in a set, use the `=COUNTUNIQUE()` function.
 
 ### Challenge
 Use the Count and Sum functions on the following campaign donations.
@@ -29,7 +30,7 @@ Use the Count and Sum functions on the following campaign donations.
 |Donor|Type|Recipient|Party|Amount|
 |:--|:--|:--|:--|--:|
 |Jim James|Individual|Senator Morris|Democrats|$250|
-|Energy Corps|Corporation|Congressman Baker|Republicans|$1,800|
+|Energy Corps|Corporation|Congressman Baker|Republicans|$16,000|
 |Robust Robotics|Corporation|Judge Allen|Republicans|$4,000|
 |Media Market|Corporation|Congresswoman Williams|Democrats|$6,700|
 |Betty Andrews|Individual|RNC|Republicans|$90|
@@ -43,17 +44,18 @@ Use the Count and Sum functions on the following campaign donations.
 |Wellness Warehouse|Corporation|DNC|Democrats|$7,340|
 |Mary Del Mar|Individual|Congresswoman Williams|Democrats|$8,375|
 |Pharma Well|Corporation|Senator Davis|Republicans|$5,650|
-|Fantasy Sports Bettors|Corporation|
-|ForProfit U.|
-|Freedom Foundation|
+|Fantasy Sports Bettors|Corporation|Judge Allen|Republicans|$5,500|
+|ForProfit U.|Corporation|Governor Roberts|Republicans|$917,480|
+|Freedom Foundation|Corporation|Senator Morris|Democrats|$5,280|
 
-Copy and paste this data into your spreadsheet app and do the following:
-1. Find how many donors there are overall.
-2. Find how much donation money there is overall.
-3. Find how many donations there are for each party.
-4. Find how many donors were individuals and how many were corporations.
-5. Find how much the donors gave to each party.
-6. Find how much came from individuals and how much came from corporations.
+Copy and paste this data into your spreadsheet app and find the following:
+1. How many donors are there are overall?
+2. How much donation money there is there overall?
+3. How many donations are there for each party?
+4. How many donors were individuals and how many were corporations?
+5. How much did these donors gave to each political party?
+6. How much donation money came from individuals and how much came from corporations?
+7. How many unique recipients are there?
 
 ---
 
