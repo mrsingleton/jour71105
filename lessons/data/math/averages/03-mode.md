@@ -7,7 +7,10 @@ There is not a math formula for mode, however, there is a built-in function in y
 `=MODE(A2:A11)`
 
 ## Practice
-Use `=MODE()` to find the most frequently occurring gas price:
+Use averaging functions to answer the following:
+- What is the average gas price?
+- Which gas price falls in the middle?
+- What is the most frequently occurring gas price?
 
 |City|Price|
 |:--|--:|
