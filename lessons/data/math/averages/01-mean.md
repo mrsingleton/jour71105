@@ -35,3 +35,6 @@ Use the following data to calculate the mean from among the donation amounts.
 |Fantasy Sports Bettors|Corporation|Judge Allen|Republicans|$5,500|
 |ForProfit U.|Corporation|Governor Roberts|Republicans|$917,480|
 |Freedom Foundation|Corporation|Senator Morris|Democrats|$5,280|
+
+## Next
+[Median](02-median.md)
