@@ -7,6 +7,7 @@ This is what most folks mean when they say the "average" this or that. This is t
 ## Function
 `=AVERAGE(A1:A11)`
 
+### NOTE
 The `=AVERAGE()` function does the same job as the mathematical approach achievable with the `=SUM()` and the division operator `/`.
 
 ## Challenge
