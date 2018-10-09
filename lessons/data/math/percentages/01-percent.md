@@ -24,9 +24,10 @@ For clarity, convert decimals into fractions, percentages or plain English.
 |90%|0.9|9/10|9 out of 10|
 
 
-### Percent Math Formula
-
-: $$ \begin{pmatrix}{Part \over Whole} \end{pmatrix} 100 = x\% $$
+To calculate percent
+- Determine the whole
+- Divide the part by the whole
+- Multiply by 100
 
 ### Percent Spreadsheet Formula
 
