@@ -1,7 +1,10 @@
 # Mean
-This is the average to use when working with numbers that are of similar value and in a relatively tight range. The mean can skew unreliably when the range includes an outlier figure.
+The mean is calculated by adding all the values in a range and dividing the sum by the total number of values. This is the average to use when working with numbers that are of similar value and in a relatively tight range. The mean can skew unreliably when the range includes an outlier figure.
 
-
+|Syntax|Example|
+|:--|:--|
+|`=AVERAGE(cell1,cell2,cell3...)`|`=AVERAGE(A3,A5,A8,A9...)`|
+|`=AVERAGE(cell range)`|`=AVERAGE(A1:A11)`|
 
 ## Challenge
 Use the following data to calculate the mean from among the donation amounts.
