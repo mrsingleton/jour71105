@@ -7,3 +7,7 @@ In contrast to aggregates, which tell us what the totals are, averages tell us m
 |What's the average?|Mean|
 |What number is right in the middle?|Median|
 |What occurs most?|Mode|
+
+01-mean.md
+02-median.md
+03-mode.md
