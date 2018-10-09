@@ -1,7 +1,7 @@
 # Mode
 Mode is useful when you need to find a numeric value that occurs frequently in a dataset.
 
-There is not a math formula for mode, however, there is a built-in function for it in your spreadsheet tool.
+There is not a math formula for mode, however, there is a built-in function in your spreadsheet tool.
 
 ## Function
 `=MODE(A2:A11)`
