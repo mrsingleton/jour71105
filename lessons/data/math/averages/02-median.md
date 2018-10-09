@@ -6,3 +6,9 @@ There is not a single formula for median because it is calculated by sorting all
 Or, using a spreadsheet tool, enter the following function:
 
 `=MEDIAN(A2:A11)`
+
+## Practice
+
+
+## Next
+[Mode](03-mode.md)
