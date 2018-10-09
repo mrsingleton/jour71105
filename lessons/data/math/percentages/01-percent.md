@@ -25,9 +25,10 @@ For clarity, convert decimals into fractions, percentages or plain English.
 
 
 To calculate percent
-- Determine the whole
-- Divide the part by the whole
-- Multiply by 100
+1. Determine the whole
+2. Divide the part by the whole
+- The resulting figure will be zero point something
+3. Multiply that by 100
 
 ### Percent Spreadsheet Formula
 
