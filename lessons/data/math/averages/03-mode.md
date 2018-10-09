@@ -9,6 +9,8 @@ There is not a math formula for mode, however, there is a built-in function in y
 ## Practice
 Use `=MODE()` to find the most frequently occurring gas price:
 
+|Price|
+|:--:|
 |2.89|
 |2.97|
 |2.19|
@@ -17,7 +19,6 @@ Use `=MODE()` to find the most frequently occurring gas price:
 |2.51|
 |2.19|
 |2.73|
-|:--:|
 
 ### Tip
 The `=MODE()` function only works on numeric data. If, for instance, you wanted to analyze public opinion polls, you'd want to learn which text-formatted response occurred most, such as "First-time voter" or "Strongly Disagree". You would need to combine a few tricks, which are best described in this article from Exceljet:
