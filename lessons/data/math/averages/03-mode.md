@@ -23,8 +23,8 @@ Use averaging functions to answer the following:
 |Houston|2.29|
 |Los Angeles|2.73|
 |Miami|2.64|
-|New York City|2.97|
-|San Juan|5.96|
+|New York City|2.98|
+|San Juan|5.97|
 |Washington DC|2.89|
 
 ### Tip
