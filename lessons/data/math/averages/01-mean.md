@@ -1,5 +1,7 @@
 # Mean
-This is what most folks mean when they say the "average" this or that. The mean is calculated by adding all the values in a range and dividing the sum by the total number of values. This is the average to use when working with numbers that are of similar value and in a relatively tight range. The mean can skew unreliably when the range includes an outlier figure.
+This is what most folks mean when they say the "average" this or that. This is the average to use when working with numbers that are of similar value and in a relatively tight range because it can skew unreliably when the range includes an outlier figure. The mean is calculated by adding all the values in a range and dividing the sum by the total number of values.
+
+
 
 |Syntax|Example|
 |:--|:--|
