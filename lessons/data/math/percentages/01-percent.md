@@ -12,8 +12,6 @@ One percent equals one hundredth.
 
 For clarity, convert decimals into fractions, percentages or plain English.
 
----
-
 ### Common Equivalents
 
 |Percent|Decimal|Fraction|English|
@@ -25,3 +23,19 @@ For clarity, convert decimals into fractions, percentages or plain English.
 |10%|0.1|1/10|one tenth|
 |90%|0.9|9/10|9 out of 10|
 
+
+### Percent Math Formula
+
+: $$ \begin{pmatrix}{Part \over Whole} \end{pmatrix} 100 = x\% $$
+
+### Percent Spreadsheet Formula
+
+: `=(A2/B2)100`
+
+**Percent Spreadsheet Setup**
+
+| Part | Whole | Pct |
+|--:|--:|--:|
+|`A2`|`B2`|`=(A2/B2)100`|
+|`A3`|`B3`|`=(A3/B3)100`|
+|`A4`|`B4`|`=(A4/B4)100`|
