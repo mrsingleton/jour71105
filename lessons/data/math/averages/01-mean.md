@@ -1,7 +1,10 @@
 # Mean
-Use this average when working with similar numbers in a tight range. The mean skews unreliably when the range includes outlier figures.
+This is the average to use when working with numbers that are of similar value and in a relatively tight range. The mean can skew unreliably when the range includes an outlier figure.
+
+
 
 ## Challenge
+Use the following data to calculate the mean from among the donation amounts.
 
 |Donor|Type|Recipient|Party|Amount|
 |:--|:--|:--|:--|--:|
