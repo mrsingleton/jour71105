@@ -15,11 +15,11 @@ Use the following data to calculate the mean from among the donation amounts.
 |Energy Corps|Corporation|Congressman Baker|Republicans|$16,000|
 |Robust Robotics|Corporation|Judge Allen|Republicans|$4,000|
 |Media Market|Corporation|Congresswoman Williams|Democrats|$6,700|
-|Betty Andrews|Individual|RNC|Republicans|$90|
+|Betty Andrews|Individual|RNC|Republicans|$100|
 |George Smith|Individual|Mayor Collins|Democrats|$380|
 |Mega Manufacturing|Corporation|Governor Roberts|Republicans|$725|
 |Pharma Well|Corporation|Senator Davis|Republicans|$5,650|
-|Harry Peterson|Individual|DNC|Democrats|$1,200|
+|Harry Peterson|Individual|DNC|Democrats|$100|
 |Virtual Malls|Corporation|RNC|Republicans|$9,463,800|
 |Patty McGwen|Individual|Mayor Collins|Democrats|$238,500|
 |Rifles Ready|Corporation|Congressman Baker|Republicans|$38,000|
