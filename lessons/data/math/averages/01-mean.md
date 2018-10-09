@@ -36,7 +36,7 @@ Use the following data to calculate the mean from among the donation amounts.
 |ForProfit U.|Corporation|Governor Roberts|Republicans|$917,480|
 |Freedom Foundation|Corporation|Senator Morris|Democrats|$5,280|
 
-- What is the figure you calculated?
+- What is the figure you calculated for the average?
 - Is this figure representative of all the values?
 - Why or why not?
 
