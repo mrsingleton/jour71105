@@ -6,9 +6,9 @@ Why are there different types of averages and when should you each?
 
 |Question type|Function type|
 |:--|:--|
-|What's the average?|`=AVERAGE()`|
+|What's the average number?|`=AVERAGE()`|
 |What number is right in the middle?|`=MEDIAN()`|
-|What occurs most?|`=MODE()`|
+|What number occurs most?|`=MODE()`|
 
 ## Read more
 - [Mean](01-mean.md)
