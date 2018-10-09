@@ -1,16 +1,19 @@
 # Mean
-This is what most folks mean when they say the "average" this or that. This is the average to use when working with numbers that are of similar value and in a relatively tight range because it can skew unreliably when the range includes an outlier figure. The mean is calculated by adding all the values in a range and dividing the sum by the total number of values.
+This is what most folks mean when they say the "average" this or that. This is the average to use when working with numbers that are of similar value and in a relatively tight range because it can skew unreliably when the range includes an outlier figure.
 
-## Formula
+## Calculate
+The mean is calculated by adding all the values in a range and dividing the sum by the total number of values.
+
+### Formula
 `=SUM(A1:A11)/10`
 
-## Function
+### Function
 `=AVERAGE(A1:A11)`
 
-### NOTE
+#### NOTE
 The `=AVERAGE()` function does the same job as the mathematical approach achievable with the `=SUM()` and the division operator `/`.
 
-## Challenge
+### Challenge
 Use the following data to calculate the mean from among the donation amounts.
 
 |Donor|Type|Recipient|Party|Amount|
