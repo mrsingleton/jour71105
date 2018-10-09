@@ -1,12 +1,14 @@
 # Averages
 
-In contrast to aggregates, which tell us what the totals are, averages tell us more about what's typical. Use the following to find the three forms of averages.
+In contrast to aggregates, which tell you what the extreme values are, averages tell us more about what values are typical. Averages help you detect patterns or find trends. You calculate an average to get a sense of what the statisticians call _measures of central tendency_.
+
+Why are there different types of averages and when should you each?
 
 |Question type|Function type|
 |:--|:--|
-|What's the average?|Mean|
-|What number is right in the middle?|Median|
-|What occurs most?|Mode|
+|What's the average?|`=AVERAGE()`|
+|What number is right in the middle?|`=MEDIAN()`|
+|What occurs most?|`=MODE()`|
 
 ## Read more
 - [Mean](01-mean.md)
