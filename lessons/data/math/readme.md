@@ -13,7 +13,11 @@ by Michael Finnegan and Ben Welsh, _Los Angeles Times_, Mar 2017
 by Gillian B. White, The Atlantic, Jul 2015
 
 ## Tips
-Writing well about numbers is also key. Similar to a nut graf, many articles -- news and opinion alike -- include what we might call a *math graf*.
+Writing well about numbers is also key. Use these resources to learn more:
+- [Poynter: Writing With Numbers](https://www.poynter.org/news/writing-numbers)
+- [Number and Numeral Writing Tips](http://www.word-mart.com/html/number_and_numeral_writing_tip.html)
 
+### Example
+Similar to a nut graf, many articles -- news and opinion alike -- include what we might call a *math graf*.
 >At a penny an ounce, the sweetened beverage tax can add 30 percent or more to the purchase price of drinks. That line item on your grocery receipt can easily exceed the total 10.25 percent local sales tax on everything in the cart.  
 >[Chicago Tribune Editorial, Sep 2017](http://www.chicagotribune.com/news/opinion/editorials/ct-edit-soda-tax-preckwinkle-repeal-20170927-story.html)
