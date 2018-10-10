@@ -21,3 +21,6 @@ Writing well about numbers is also key. Use these resources to learn more:
 Similar to a nut graf, many articles -- news and opinion alike -- include what we might call a *math graf*.
 >At a penny an ounce, the sweetened beverage tax can add 30 percent or more to the purchase price of drinks. That line item on your grocery receipt can easily exceed the total 10.25 percent local sales tax on everything in the cart.  
 >[Chicago Tribune Editorial, Sep 2017](http://www.chicagotribune.com/news/opinion/editorials/ct-edit-soda-tax-preckwinkle-repeal-20170927-story.html)
+
+## Next
+[Aggregates](https://github.com/mrsingleton/jour71105/blob/master/lessons/data/math/aggregates/readme.md)
