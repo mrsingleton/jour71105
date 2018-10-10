@@ -7,3 +7,5 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 |How much did it increase (or decrease) over time?|Percent Change|
 |By how much did the percentage adjust?|Percentage Points|
 |tk|Percentile|
+
+## Next: [Percent](https://github.com/mrsingleton/jour71105/blob/master/lessons/data/math/percentages/01-percent.md)
