@@ -10,6 +10,4 @@ As you research, you'll think of certain questions (or your editor will ask you 
 |What's the least... What's the lowest...|`=MIN()`|
 |How does this rank?|`=RANK()`|
 
-## Read more
-- [Count, Sum](01-count-sum.md)
-- [Max, Min, Rank](02-max-min-rank.md)
+## Next: [Count, Sum](01-count-sum.md)
