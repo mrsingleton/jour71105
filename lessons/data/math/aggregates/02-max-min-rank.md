@@ -31,4 +31,4 @@ Use the same campaign donations data from the [COUNT/SUM lesson](01-count-sum.md
 2. What is the least amount donated by a corporation?
 3. What is the rank of the donation from Freedom Foundation?
 
-## Next: [Averages](https://github.com/mrsingleton/jour71105/blob/master/lessons/data/math/averages/readme.md)
+## Next: [Averages](../averages/readme.md)
