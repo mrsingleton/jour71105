@@ -8,4 +8,4 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 |By how much did the percentage adjust?|Percentage Points|
 |tk|Percentile|
 
-## Next: [Percent](https://github.com/mrsingleton/jour71105/blob/master/lessons/data/math/percentages/01-percent.md)
+## Next: [Percent](01-percent.md)
