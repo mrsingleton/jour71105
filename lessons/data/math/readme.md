@@ -1,5 +1,5 @@
 # Math
-What role does math play in journalism?
+__What role does math play in journalism?__
 
 Reporters, columnists, fact checkers and copyeditors use math very regularly to convey impact, context and scale in their storytelling. Most rely on Algebra and Statistics for number crunching, yet even basic arithmetic can help tremendously in including helpful numbers in a story.
 
