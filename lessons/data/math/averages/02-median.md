@@ -10,5 +10,4 @@ Or, using a spreadsheet tool, enter the following function:
 ## Practice
 
 
-## Next
-[Mode](03-mode.md)
+## Next: [Mode](03-mode.md)
