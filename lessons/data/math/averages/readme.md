@@ -24,7 +24,4 @@ Why are there different types of averages and when should you each?
 ### Best Practice
 Calculate all three, then evaluate which result is most relevant to the story you're reporting.
 
-## Read more
-- [Mean](01-mean.md)
-- [Median](02-median.md)
-- [Mode](03-mode.md)
+## Next: [Mean](01-mean.md)
