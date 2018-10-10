@@ -32,4 +32,4 @@ The `=MODE()` function only works on numeric data. If, for instance, you wanted 
 
 [Most frequently occurring text](https://exceljet.net/formula/most-frequently-occurring-text).
 
-## Next: [Percentages](https://github.com/mrsingleton/jour71105/blob/master/lessons/data/math/percentages/readme.md)
+## Next: [Percentages](../percentages/readme.md)
