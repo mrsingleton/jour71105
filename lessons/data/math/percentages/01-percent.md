@@ -41,3 +41,5 @@ To calculate percent
 |`A2`|`B2`|`=(A2/B2)100`|
 |`A3`|`B3`|`=(A3/B3)100`|
 |`A4`|`B4`|`=(A4/B4)100`|
+
+## Next: [Percent Change](02-percent-change.md)
