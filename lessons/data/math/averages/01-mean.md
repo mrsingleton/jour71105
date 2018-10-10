@@ -40,5 +40,4 @@ Use the following data to calculate the mean from among the donation amounts.
 - Is this figure representative of all the values?
 - Why or why not?
 
-## Next
-[Median](02-median.md)
+## Next: [Median](02-median.md)
