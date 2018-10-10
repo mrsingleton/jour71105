@@ -13,6 +13,9 @@ Get familiar with the info your dataset by activating the spreadsheet tool's bui
 7. If you want to remove the additional sorting rule, click the __x__ at the left of the rule.
 8. Click the Sort button and check the result.
 
+### Tip
+Sorting on colums helps you answer questions such as, _What are the top 10 this_ or _What are the bottom 5 that_ from a dataset of many rows.
+
 ## To filter spreadsheet data
 1. Highlight a range of cells for the filter.
 2. Click the top menu's __Data__ item and choose the __Create a filter__ option.
@@ -21,3 +24,6 @@ Get familiar with the info your dataset by activating the spreadsheet tool's bui
 5. To filter by values, uncheck items that don't match your criteria.
 6. To filter by terms, enter keywords into the input field for live search response.
 7. To turn off the filter, click __Data__ from the top menu, then __Turn off filter__.
+
+### Tip
+Filtering helps you drill down to specific data points and answer questions such as, _Who or what meet the exact criteria of A and B vs X or Y?_
