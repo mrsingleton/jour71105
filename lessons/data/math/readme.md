@@ -6,11 +6,11 @@ Reporters, columnists, fact checkers and copyeditors use math very regularly to 
 Similar to how exact quotes, correct grammar and overall accuracy are tied to your journalistic integrity... so are precise numbers! Your ability to use math well is right up there with the other fundamentals.
 
 ## Numbers in the news
->[Tuesday's L.A. voter turnout was likely the lowest ever, muddying Garcetti's historic reelection win](http://www.latimes.com/local/california/la-me-ln-low-turnout-20170308-story.html)
->[color=#6699cc] [name=Michael Finnegan and Ben Welsh] [time=Mar 2017]
+[Tuesday's L.A. voter turnout was likely the lowest ever, muddying Garcetti's historic reelection win](http://www.latimes.com/local/california/la-me-ln-low-turnout-20170308-story.html)
+>by Michael Finnegan and Ben Welsh, _Los Angeles Times_, Mar 2017
 
 >[Minorities made up 21.4 percent of graduates with degrees in journalism or communications between 2004 and 2014, but less than half of minority graduates found full-time jobs, while two-thirds of white graduates did.](https://www.theatlantic.com/business/archive/2015/07/minorities-in-journalism/399461/)
->[color=#6699cc] [name=Gillian B. White] [time=Jul 2015]
+>by Gillian B. White, The Atlantic, Jul 2015
 
 ## Tips
 Writing well about numbers is also key. Similar to a nut graf, many articles -- news and opinion alike -- include what we might call a *math graf*.
