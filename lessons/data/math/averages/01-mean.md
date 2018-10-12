@@ -3,6 +3,9 @@ This is what most folks mean when they say the "average", however, this type of 
 
 __Calculate the mean by adding all the values in a range and dividing the sum by the total number of values.__
 
+The mean is the only average calculated mathematically. The resulting figure will be a number, however, it'll very often be an unreal number, not an actual number from among the list and it typically includes decimal digits. 
+
+
 ## Formula
 `=SUM(A1:A11)/10`
 
