@@ -1,13 +1,13 @@
 # Mode
-Mode is useful when you need to find a numeric value that occurs frequently in a dataset. It's the value that occurs the most and it is reached by counting -- also a manual process without the help of a spreadsheet function. Unlike the other two types, there can be more than one mode, or sometimes no mode.  
+Mode is useful when you need to find a numeric value that occurs frequently in a dataset. It's the value that occurs the most and unlike the other two types of averages, there can be more than one mode, or sometimes no mode.
 
-There's not a math formula for mode, however, there is a built-in function in your spreadsheet tool.
 
-## Function
-`=MODE(A2:A11)`
+The mode value is reached by counting -- and again, with no actual math formula to plug in, this would be a manual process were it not for spreadsheet tools. Thankfully, Sheets has this built-in function:
+
+__`=MODE(A2:A11)`__
 
 ## Practice
-Use averaging functions to answer the following:
+Use all of the averaging functions to answer the following:
 - What is the average gas price?
 - Which gas price falls in the middle?
 - What is the most frequently occurring gas price?
