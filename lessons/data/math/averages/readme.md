@@ -10,9 +10,6 @@ There are different kinds of averages and different cases for using each, depend
 |What number is right in the middle?|__Median__|
 |What number occurs most?|__Mode__|
 
-### Median
-Without the help of a spreadsheet tool, the median would have to be calculated manually. It is reached by sorting all values in ascending or descending order, then determining which value falls right in the middle of the entire list of values. That'll be a real number from among the list if there is an odd number of figures. For an even number of figures, you take the mean of the middle two.  
-__Spreadsheet function: `=MEDIAN()`__
 
 ### Mode
 The mode is the value that occurs the most and it is reached by counting -- also a manual process without the help of a spreadsheet function. Unlike the other two types, there can be more than one mode, or sometimes no mode.  
