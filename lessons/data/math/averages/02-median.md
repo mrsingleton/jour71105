@@ -65,4 +65,6 @@ Find the median housedold income for the nation by averaging the income of each 
 |Wisconsin|$54,610|+/- $201|
 |Wyoming|$59,143|+/- $896|
 
+Source: [US Census American Community Survey](https://www.census.gov/search-results.html?searchType=web&cssp=SERP&q=median%20household%20income%20by%20city)
+
 ## Next: [Mode](03-mode.md)
