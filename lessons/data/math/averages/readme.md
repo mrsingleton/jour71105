@@ -11,10 +11,6 @@ There are different kinds of averages and different cases for using each, depend
 |What number occurs most?|__Mode__|
 
 
-### Mode
-The mode is the value that occurs the most and it is reached by counting -- also a manual process without the help of a spreadsheet function. Unlike the other two types, there can be more than one mode, or sometimes no mode.  
-__Spreadsheet function: `=MODE()`__
-
 ### Best Practice
 Calculate all three, then evaluate which result is most relevant to the story you're reporting.
 
