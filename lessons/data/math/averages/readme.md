@@ -1,25 +1,22 @@
 # Averages
-
-In contrast to aggregates, which tell you what the extreme values are, averages tell us more about values are typical. Averages help you detect patterns or find trends. You calculate an average to get a sense of what statisticians call _measures of central tendency_.
+In contrast to aggregates, which tell you what the extreme values are, averages tell us more about values that are typical. Averages help you detect patterns and find trends. You calculate averages to get a sense of what statisticians call _measures of central tendency_.
 
 ## Types
-Why are there different types of averages and when should you each?
+There are different kinds of averages and different cases for using each, depending on what question you want to answer.
 
 |Question type|Function type|
 |:--|:--|
-|What's the average number?|`=AVERAGE()`|
-|What number is right in the middle?|`=MEDIAN()`|
-|What number occurs most?|`=MODE()`|
+|What's the average number?|__Mean__|
+|What number is right in the middle?|__Median__|
+|What number occurs most?|__Mode__|
 
-### Keywords
-| Mean | Median | Mode |
-|:--:|:--:|:--:|
-| Mathematical | Middle | Most |
+### Median
+Without the help of a spreadsheet tool, the median would have to be calculated manually. It is reached by sorting all values in ascending or descending order, then determining which value falls right in the middle of the entire list of values. That'll be a real number from among the list if there is an odd number of figures. For an even number of figures, you take the mean of the middle two.  
+__Spreadsheet function: `=MEDIAN()`__
 
-### Caveats
-|Mean|Median|Mode|
-|:--|:--|:--|
-|The resulting figure can be an unreal number|An even number of data points requires averaging the two middle figures|There can be more than one mode, or sometimes no mode|
+### Mode
+The mode is the value that occurs the most and it is reached by counting -- also a manual process without the help of a spreadsheet function. Unlike the other two types, there can be more than one mode, or sometimes no mode.  
+__Spreadsheet function: `=MODE()`__
 
 ### Best Practice
 Calculate all three, then evaluate which result is most relevant to the story you're reporting.
