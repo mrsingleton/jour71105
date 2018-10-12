@@ -1,18 +1,12 @@
 # Percent
-A percent is understood to be part of a whole, some distinguishable amount of a complete unit. The unit is represented as `100` and all portions within it are fractions of the full 100 percent.
+A percent is a part of a whole, some distinct amount of a complete unit. Since parts of a singular unit amount to less than `1`, the decimal figures are multiplied by `100` so that they become readily understandable.
+
+Readers and viewers can grasp the idea of *parts of a whole* far better than they can make sense of raw numbers or decimals that don't have context.
 
 ![The "Pie I have eaten" pie chart](https://i1.wp.com/flowingdata.com/wp-content/uploads/2008/09/Pie-I-have-Eaten.jpg)
 
-Readers and viewers can grasp the idea of *parts of a whole* far better than they can make sense of raw numbers that don't have context.
-
-One percent equals one hundredth.
-
-
-### Writing Tip
-
+## Writing Tip
 For clarity, convert decimals into fractions, percentages or plain English.
-
-### Common Equivalents
 
 |Percent|Decimal|Fraction|English|
 |:--|--|:--:|--|
@@ -23,16 +17,14 @@ For clarity, convert decimals into fractions, percentages or plain English.
 |10%|0.1|1/10|one tenth|
 |90%|0.9|9/10|9 out of 10|
 
-
-To calculate percent
+## To calculate percent
 1. Determine the whole
 2. Divide the part by the whole
 - Note that the resulting figure will be zero point something
-3. Multiply that by 100
+3. Multiply that by `100`
 
 ### Percent Spreadsheet Formula
-
-: `=(A2/B2)100`
+`=(A2/B2)100`
 
 **Percent Spreadsheet Setup**
 
