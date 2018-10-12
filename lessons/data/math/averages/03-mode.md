@@ -27,6 +27,8 @@ Use all of the averaging functions to answer the following:
 |San Juan|5.97|
 |Washington DC|2.89|
 
+_Hypothetical figures_
+
 ### Tip
 The `=MODE()` function only works on numeric data. If, for instance, you wanted to analyze public opinion polls, you'd want to learn which text-formatted response occurred most, such as "First-time voter" or "Strongly Disagree". You would need to combine a few tricks, which are best described in this article from Exceljet:
 
