@@ -1,7 +1,7 @@
 # Mode
-Mode is useful when you need to find a numeric value that occurs frequently in a dataset.
+Mode is useful when you need to find a numeric value that occurs frequently in a dataset. It's the value that occurs the most and it is reached by counting -- also a manual process without the help of a spreadsheet function. Unlike the other two types, there can be more than one mode, or sometimes no mode.  
 
-There is not a math formula for mode, however, there is a built-in function in your spreadsheet tool.
+There's not a math formula for mode, however, there is a built-in function in your spreadsheet tool.
 
 ## Function
 `=MODE(A2:A11)`
