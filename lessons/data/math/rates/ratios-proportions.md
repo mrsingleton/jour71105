@@ -1,14 +1,17 @@
 # Ratios and Proportions
-Use ratios help your readers understand the relationship between two numbers and how they compare to one another. For instance, if there are ...
+You can use ratios to help your readers understand the relationship between two numbers and how things compare to one another. They typically compare two numbers and they're typically calculated in comparison to `1`. For instance, while a percentage can communicate, _In 2018, the Red Sox won 66.67% of their games_, a ratio can communicate the same quantity in a more comprehensible way by stating, _In 2018, the Red Sox had 2 wins for every 1 loss_.
 
-While a percentage can communicate, _In 2018, the Red Sox won 66.67% of their games_, a ratio can communicate the same quantity in a different way by stating, _In 2018, the Red Sox had 2 wins for every 1 loss_.
+To calculate ratio, divide the greater value (dividend) by the lesser value (divisor) then use the result (quotient) as the part of the ratio you compare to `1`.
 
 
+=(D2/E2)
 
-To calculate ratio, divide the greater value (dividend) by the lesser value (divisor) then use the result (quotient) as the part of your ratio you compare to 1.
+=(D2/E2)&" wins for every 1 loss"
+
+=ROUND((D2/E2),2)&" wins for every 1 loss"
 
 ## Practice
-Revisit the table of 2018 MLB Standings in your spreadsheet and use column __G__ to calculate the win to loss ratio for each team.
+Revisit the table of 2018 MLB Standings and use column __G__ to calculate the win to loss ratio for each team.
 
 |Team|League|Games|Wins|Losses|Win Pct|Win Ratio|
 |:--|:--|--:|--:|--:|--:|--:|
