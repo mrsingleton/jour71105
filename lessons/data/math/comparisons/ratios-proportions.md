@@ -65,7 +65,6 @@ _Source: [Baseball Reference](https://www.baseball-reference.com/leagues/MLB-sta
 ## Proportion
 Use proportions to phrase things in ways that help readers comprehend scale. When two ratios are equal, they are said to be proportional. For instance, a proportion can be written as "twenty is to twenty-five as four is to five" or `20/25 = 4/5`.
 
-
-[Read more](https://www.mathplanet.com/education/algebra-1/how-to-solve-linear-equations/ratios-and-proportions-and-how-to-solve-them)
+[Read all about ratio and proportion](https://www.mathplanet.com/education/algebra-1/how-to-solve-linear-equations/ratios-and-proportions-and-how-to-solve-them)
 
 ## Next: [Spreadsheets](../../spreadsheets/readme.md)
