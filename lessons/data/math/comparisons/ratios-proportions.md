@@ -15,7 +15,7 @@ __To calculate ratio, divide the greater value (dividend) by the lesser value (d
 First, apply this example formula to the respective column and row locations in your spreadsheet.  
 `=(A2/B2)`
 
-Next, use the `&` operator to append quoted text to your result to make it read in a familiar format, such as `2:1`.  
+Next, use the `&` operator to append quoted text to your result to make it read in a familiar `x:1` format, such as `2:1`.  
 `=(A2/B2)&":1"`
 
 Similarly, you could include phrasing within the quoted text to make it read like part of a sentence.  
@@ -25,7 +25,22 @@ Finally, you could surround the equation with the `=ROUND()` function to shorten
 `=ROUND((A2/B2),2)&" wins for every one loss"`
 
 ## Practice
-Revisit the table of 2018 MLB Standings and use column __G__ to calculate the ratio of wins to every one loss, using the readable format of your choice.
+A. Use column __D__ to calculate the ratio of total workers to every one minority worker at daily newspapers over the years, using the `x:1` format.
+
+|Year|Total Work Force|Minorities In Work Force|Ratio|
+|:--|--:|--:|--:|
+|1980|47,000|2,300||
+|1985|53,800|3,100||
+|1990|56,900|4,500||
+|1995|53,800|5,900||
+|2000|56,200|6,700||
+|2005|54,100|7,300||
+|2010|41,500|5,500||
+|2015|32,900|4,200||
+
+_Source: American Society of News Editors (ASNE), [Table A: Minority Employment in Daily Newspapers](https://www.asne.org/content.asp?pl=140&sl=129&contentid=129)_
+
+B. Revisit the table of 2018 MLB Standings and use column __G__ to calculate the ratio of wins to every one loss, using the readable format of your choice.
 
 |Team|League|Games|Wins|Losses|Win to Loss Ratio|
 |:--|:--|--:|--:|--:|--:|
