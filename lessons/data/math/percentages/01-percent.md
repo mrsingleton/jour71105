@@ -35,7 +35,7 @@ For clarity, convert decimals into fractions, percentages or plain English.
 |`A4`|`B4`|`=(A4/B4)*100`|
 
 ## Practice
-tk
+Calculate the win percentage for each team.
 
 |Team|League|Games|Wins|Losses|Win Pct|
 |:--|:--|--:|--:|--:|--:|
@@ -69,5 +69,7 @@ tk
 |CHW|AL|162|62|100||
 |KCR|AL|162|58|104||
 |BAL|AL|162|47|115||
+
+_Source: [Baseball Reference](https://www.baseball-reference.com/leagues/MLB-standings.shtml)_
 
 ## Next: [Percent Change](02-percent-change.md)
