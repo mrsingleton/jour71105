@@ -6,7 +6,7 @@ For instance, while a percentage can communicate, _In 2018, the Red Sox won 66.6
 __To calculate ratio, divide the greater value (dividend) by the lesser value (divisor) then use the result (quotient) as the part of the ratio you compare to `1`.__
 
 ## Formulas
-First, apply this example formula to the respective column and row locations in your spreadsheet.
+First, apply this example formula to the respective column and row locations in your spreadsheet.  
 `=(A2/B2)`
 
 Next, you can use the `&` operator to append quoted text to your result to make it read in a familiar format, such as `2:1`.  
