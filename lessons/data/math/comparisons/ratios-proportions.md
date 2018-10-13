@@ -27,7 +27,7 @@ Finally, you could surround the equation with the `=ROUND()` function to shorten
 ## Practice
 Revisit the table of 2018 MLB Standings and use column __G__ to calculate the ratio of wins to every one loss, using the readable format of your choice.
 
-|Team|League|Games|Wins|Losses|Win Pct|Win:Loss Ratio|
+|Team|League|Games|Wins|Losses|Win Pct|Win to Loss Ratio|
 |:--|:--|--:|--:|--:|--:|--:|
 |BOS|AL|162|108|54|||
 |HOU|AL|162|103|59|||
