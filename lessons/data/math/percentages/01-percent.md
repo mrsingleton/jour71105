@@ -6,7 +6,7 @@ Readers and viewers can grasp the idea of *parts of a whole* far better than the
 A percent is a part of a whole, a distinct amount of a complete unit. Since parts of a singular unit amount to less than `1`, such as `0.25`, the decimal figures are multiplied by `100` so that they become more easily understandable, i.e. `25%`.
 
 ## Writing Tip
-For clarity, convert decimals into fractions, percentages or plain English.
+For clarity, when writing about numbers, convert odd sounding decimals into percentages or fractions or plain old English terms.
 
 |Percent|Decimal|Fraction|English|
 |:--|--|:--:|--|
@@ -20,7 +20,7 @@ For clarity, convert decimals into fractions, percentages or plain English.
 ## To calculate percent
 1. Determine the whole
 2. Divide the part by the whole
-- Note that the resulting figure will be zero point something
+- Note that the resulting figure will be zero point something, `0.xxx`
 3. Multiply that by `100`
 
 ### Percent Spreadsheet Formula
@@ -34,8 +34,10 @@ For clarity, convert decimals into fractions, percentages or plain English.
 |`A3`|`B3`|`=(A3/B3)*100`|
 |`A4`|`B4`|`=(A4/B4)*100`|
 
+Alternatively, divide the two figures, then use the spreadsheet tool's number formatting options under the __FORMAT » NUMBER__ menu to convert the result into a percent and to change the amount of decimal places.
+
 ## Practice
-Calculate the win percentage for each team.
+Copy and paste the following table of 2018 MLB Standings into a spreadsheet and use column __F__ to calculate the win percentage for each team.
 
 |Team|League|Games|Wins|Losses|Win Pct|
 |:--|:--|--:|--:|--:|--:|
@@ -71,5 +73,7 @@ Calculate the win percentage for each team.
 |BAL|AL|162|47|115||
 
 _Source: [Baseball Reference](https://www.baseball-reference.com/leagues/MLB-standings.shtml)_
+
+- How many teams were better than 55 percent?
 
 ## Next: [Percent Change](02-percent-change.md)
