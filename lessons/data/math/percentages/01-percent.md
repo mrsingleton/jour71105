@@ -74,6 +74,6 @@ Copy and paste the following table of 2018 MLB Standings into a spreadsheet and 
 
 _Source: [Baseball Reference](https://www.baseball-reference.com/leagues/MLB-standings.shtml)_
 
-- How many teams were better than 55 percent?
+- Which teams were better than 55 percent?
 
 ## Next: [Percent Change](02-percent-change.md)
