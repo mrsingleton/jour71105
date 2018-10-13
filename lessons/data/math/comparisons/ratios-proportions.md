@@ -9,7 +9,7 @@ __To calculate ratio, divide the greater value (dividend) by the lesser value (d
 First, apply this example formula to the respective column and row locations in your spreadsheet.  
 `=(A2/B2)`
 
-Next, you can use the `&` operator to append quoted text to your result to make it read in a familiar format, such as `2:1`.  
+Next, use the `&` operator to append quoted text to your result to make it read in a familiar format, such as `2:1`.  
 `=(A2/B2)&":1"`
 
 Similarly, you could include phrasing within the quoted text to make it read like part of a sentence.  
