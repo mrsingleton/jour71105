@@ -15,6 +15,7 @@ NOTE: Per capita figures are usually deep decimal values that are too small to m
 2. `=(A2/B2)*100000`
 3. `=ROUND((A2/B2), 1)*100000`
 
-[data table]
+## Practice
+Calculate the crime rate for the following:
 
 ## Next: [Ratios and Proportions](ratios-proportions.md)
