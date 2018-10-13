@@ -5,8 +5,9 @@ It's not enough to say that one city has more reported crimes than another city 
 
 NOTE: Per capita figures are usually deep decimal values that are too small to make much sense of. So, similar to percentage figures, which you multiply by `100`, you have to multiply per capita figures by `100,000` for them to be significant.
 
-__To calculate rate between two populations, get each per capita figure, then multiply them by a population figure that both have in common, i.e. `1,000` or `10,000`. For large U.S. cities, this is typically measured at `100,000` people__. This is known as _normalizing_ of data.
+__To calculate the crime rate between two cities, divide each city's number of crimes by the respective population figures to get a per capita count (it'll be a small decimal value). Then multiply that by a population segment number that both cities have in common, i.e. `1,000` or `10,000` people. For large U.S. cities, this is typically measured at `100,000` people. This step is known as _normalizing_ the data__.
 
-
+## Formula
+`crimes/poulation`
 
 ## Next: [Ratios and Proportions](ratios-proportions.md)
