@@ -1,3 +1,3 @@
 # Percentile
 
-## Next: [Rates](../rates/readme.md)
+## Next: [Comparisons](../comparisons/readme.md)
