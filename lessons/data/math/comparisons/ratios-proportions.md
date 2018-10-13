@@ -40,7 +40,7 @@ A. Use column __D__ to calculate the ratio of total workers to every one minorit
 
 _Source: American Society of News Editors (ASNE), [Table A: Minority Employment in Daily Newspapers](https://www.asne.org/content.asp?pl=140&sl=129&contentid=129)_
 
-B. Revisit the table of 2018 MLB Standings and use column __G__ to calculate the ratio of wins to every one loss, using the readable format of your choice.
+B. Revisit the table of 2018 MLB Standings and use column __G__ to calculate the ratio of wins to every one loss, using the readable phrasing format.
 
 |Team|League|Games|Wins|Losses|Win to Loss Ratio|
 |:--|:--|--:|--:|--:|--:|
