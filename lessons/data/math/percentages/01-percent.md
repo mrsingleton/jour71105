@@ -37,7 +37,7 @@ For clarity, when writing about numbers, convert odd sounding decimals into perc
 Alternatively, divide the two figures, then use the spreadsheet tool's number formatting options under the __FORMAT » NUMBER__ menu to convert the result into a percent and to change the amount of decimal places.
 
 ## Practice
-Copy and paste the following table of 2018 MLB Standings into a spreadsheet and use column __F__ to calculate the win percentage for each team.
+A. Copy and paste the following table of 2018 MLB Standings into a spreadsheet and use column __F__ to calculate the win percentage for each team.
 
 |Team|League|Games|Wins|Losses|Win Pct|
 |:--|:--|--:|--:|--:|--:|
@@ -75,5 +75,21 @@ Copy and paste the following table of 2018 MLB Standings into a spreadsheet and 
 _Source: [Baseball Reference](https://www.baseball-reference.com/leagues/MLB-standings.shtml)_
 
 - Which teams were better than 55 percent?
+- Which ones made it to the postseason?
+
+B. Copy and paste the following table of employees at daily newspapers into a spreadsheet and use column __D__ to calculate the percentage of minorities for each year.
+
+|Year|Total Work Force|Minorities In Work Force|Pct Minority|
+|:--|--:|--:|--:|
+|1980|47,000|2,300||
+|1985|53,800|3,100||
+|1990|56,900|4,500||
+|1995|53,800|5,900||
+|2000|56,200|6,700||
+|2005|54,100|7,300||
+|2010|41,500|5,500||
+|2015|32,900|4,200||
+
+_Source: American Society of News Editors (ASNE), [Table A: Minority Employment in Daily Newspapers](https://www.asne.org/content.asp?pl=140&sl=129&contentid=129)_
 
 ## Next: [Percent Change](02-percent-change.md)
