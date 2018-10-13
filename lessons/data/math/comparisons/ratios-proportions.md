@@ -1,7 +1,7 @@
 # Ratios and Proportions
 It's good to use ratios to help your readers understand the relationship between two numbers and how large and small things compare to one another. They often compare two numbers and they're typically calculated in comparison to `1`.
 
-For instance, while a percentage can communicate, _In 2018, the Red Sox won 66.67% of their games_, a ratio can communicate the same quantity in a more comprehensible way by stating, _In 2018, the Red Sox had 2 wins for every 1 of their losses_.
+For instance, while a percentage can communicate, _In 2018, the Red Sox won 66.67% of their games_, a ratio can communicate the same quantity in a more comprehensible way by stating, _In 2018, the Red Sox had 2 wins for every one of their losses_.
 
 __To calculate ratio, divide the greater value (dividend) by the lesser value (divisor) then use the result (quotient) as the part of the ratio you compare to `1`.__
 
