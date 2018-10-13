@@ -3,12 +3,16 @@ You can use ratios to help your readers understand the relationship between two 
 
 To calculate ratio, divide the greater value (dividend) by the lesser value (divisor) then use the result (quotient) as the part of the ratio you compare to `1`.
 
+`=(A2/B2)`
 
-=(D2/E2)
+You can use the `&` operator to append quoted text to your result to make it read in a familiar format, such as `2:1`.
+`=(A2/B2)&":1"`
 
-=(D2/E2)&" wins for every 1 loss"
+Similarly, you could include phrasing within the quoted text to make it read like part of a sentence.
+`=(A2/B2)&" wins for every 1 loss"`
 
-=ROUND((D2/E2),2)&" wins for every 1 loss"
+Finally, you could surround the equation with the `=ROUND()` function to shorten the resulting figure down to two decimal places.
+`=ROUND((A2/B2),2)&" wins for every 1 loss"`
 
 ## Practice
 Revisit the table of 2018 MLB Standings and use column __G__ to calculate the win to loss ratio for each team.
