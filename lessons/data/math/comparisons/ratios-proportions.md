@@ -11,10 +11,10 @@ You can use the `&` operator to append quoted text to your result to make it rea
 `=(A2/B2)&":1"`
 
 Similarly, you could include phrasing within the quoted text to make it read like part of a sentence.  
-`=(A2/B2)&" wins for every 1 loss"`
+`=(A2/B2)&" wins for every one loss"`
 
 Finally, you could surround the equation with the `=ROUND()` function to shorten the resulting figure down to two decimal places.  
-`=ROUND((A2/B2),2)&" wins for every 1 loss"`
+`=ROUND((A2/B2),2)&" wins for every one loss"`
 
 ## Practice
 Revisit the table of 2018 MLB Standings and use column __G__ to calculate the win to loss ratio for each team.
