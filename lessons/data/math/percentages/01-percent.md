@@ -1,5 +1,5 @@
 # Percent
-A percent is a part of a whole, a distinct amount of a complete unit. Since parts of a singular unit amount to less than `1`, the decimal figures are multiplied by `100` so that they become readily understandable.
+A percent is a part of a whole, a distinct amount of a complete unit. Since parts of a singular unit amount to less than `1`, the decimal figures are multiplied by `100` so that they become more easily understandable.
 
 Readers and viewers can grasp the idea of *parts of a whole* far better than they can make sense of raw numbers or decimals that don't have context.
 
