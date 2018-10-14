@@ -9,7 +9,7 @@ Use percentage points to convey relationships between the part and the whole.
 ## Exercise
 For instance, if last month's unemployment rate was 5.4% and this month's rate is 7.2%, it rose by 1.8 percentage points, but by what actual percentage?
 
-Refer back to what you just learned in the [Percent Change lesson](02-percent-change.md), regarding how to calculate change over time.
+Refer back to the equations you just learned in the [Percent Change lesson](02-percent-change.md), regarding how to calculate change over time.
 
 Conversely, if the 5.4% unemployment rate went down by 1.8 percentage points to 3.6%, then by how much would it have dropped, percentage-wise?
 
