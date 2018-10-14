@@ -1,11 +1,11 @@
 # Math
 __What role does math play in journalism?__
 
-![Meme cartoon image of Neil deGrasse Tyson saying, "I dunno"](https://i.imgur.com/RHyuRIX.jpg)
-
 Reporters, columnists, fact checkers and copyeditors use math very regularly to convey impact, context and scale in their storytelling. Most rely on Algebra and Statistics for number crunching, yet even basic arithmetic can help tremendously in including helpful numbers in a story.
 
 Similar to how exact quotes, correct grammar and overall accuracy are tied to your journalistic integrity... so are precise numbers! Your ability to use math well is right up there with the other fundamentals.
+
+![Meme cartoon image of Neil deGrasse Tyson saying, "I dunno"](https://i.imgur.com/RHyuRIX.jpg)
 
 ## Numbers in the news
 [Tuesday's L.A. voter turnout was likely the lowest ever, muddying Garcetti's historic reelection win](http://www.latimes.com/local/california/la-me-ln-low-turnout-20170308-story.html)  
