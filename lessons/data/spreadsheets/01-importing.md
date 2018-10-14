@@ -5,6 +5,7 @@ A comma separated values (CSV) version is a very reliable option because it a te
 
 The file importing processes are pretty straightforward so let's try a couple of ways below.
 
+## CSV file
 1. Visit this search results page for [median household income by city](https://www.census.gov/search-results.html?searchType=web&cssp=SERP&q=median%20household%20income%20by%20city) on the U.S. Census website.
 
 2. Notice the TABLE icon in the info box and click it to reveal a pop up window.
@@ -23,6 +24,7 @@ The file importing processes are pretty straightforward so let's try a couple of
 
 Sometimes you'll be provided CSV data that isn't in file format. Data viewed in this format can look illegible and intimidating, however, it's still managable. Here's an example.
 
+## Raw CSV data
 1. Visit the [MLB Detailed Standings](https://www.baseball-reference.com/leagues/MLB/2017-standings.shtml#all_expanded_standings_overall) table for 2018 on the Baseball Reference website.
 
 2. Hover over the Share & more item and click the Get table as CSV (for Excel) option.
