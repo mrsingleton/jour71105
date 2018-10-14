@@ -42,11 +42,19 @@ _Source: FBI Uniform Crime Reporting_
 - _[Table 6: 2017 U.S. Crime by Metro Statistical Area](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-6)_
 - _[Table 6: 2016 U.S. Offenses Known to Law Enforcement by City](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-6/table-6.xls/view)_
 
-### Answer to brain teaser
+### Answer to that brain teaser
 25 is a third of 75, so if the graduation rate increased to 100%, then the previous rate of 75% increased by a third of its own value, i.e. by 33%.
 
 _Inspired by Dilbert_
 
 ![](https://i.imgur.com/h4e7Eay.gif)
+
+---
+
+_Not to be confused with percent chance!_
+
+[![Percent Chance](https://i.imgur.com/lDNzVoy.png)](http://www.nytimes.com/newsgraphics/2016/10/18/presidential-forecast-updates/newsletter.html)
+
+<a href="http://www.nytimes.com/newsgraphics/2016/10/18/presidential-forecast-updates/newsletter.html" target="_blank"><img src="https://i.imgur.com/lDNzVoy.png" width="auto" height="500" /></a>
 
 ## Next: [Percentage Points](03-percentage-points.md)
