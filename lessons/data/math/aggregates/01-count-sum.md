@@ -1,5 +1,7 @@
 # Count and Sum
 
+![](https://i.imgur.com/wDIFflM.png)
+
 ## How Many?
 Use the `=COUNT()` function to answer the question, "how many?" It returns a tally of how many __numeric__ values there are in a selection of cells or in a given range of cells, allowing you to take inventory of a certain set of values.
 
