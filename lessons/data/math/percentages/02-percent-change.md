@@ -22,6 +22,10 @@ Percent decrease will be a negative figure.
 
 [Where (and where not) to expect huge tuition increases](https://datawrapper.dwcdn.net/wV4D1/11/)
 
+_Not to be confused with percent chance!_
+
+[![Percent Chance](https://i.imgur.com/lDNzVoy.png)](http://www.nytimes.com/newsgraphics/2016/10/18/presidential-forecast-updates/newsletter.html)
+
 ## Practice
 Insert empty columns and calculate the percent change from 2016 to 2017 for these major U.S. cities.
 
@@ -48,11 +52,5 @@ _Source: FBI Uniform Crime Reporting_
 _Inspired by Dilbert_
 
 ![](https://i.imgur.com/h4e7Eay.gif)
-
----
-
-_Not to be confused with percent chance!_
-
-[![Percent Chance](https://i.imgur.com/lDNzVoy.png)](http://www.nytimes.com/newsgraphics/2016/10/18/presidential-forecast-updates/newsletter.html)
 
 ## Next: [Percentage Points](03-percentage-points.md)
