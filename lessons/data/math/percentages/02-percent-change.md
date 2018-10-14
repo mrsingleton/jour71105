@@ -18,6 +18,14 @@ times 100
 Percent increase will be a positive figure.  
 Percent decrease will be a negative figure.
 
-tk
+## Practice
+
+Now let's revisit that brain teaser...
+
+25 is a third of 75, so if the graduation rate increased to 100%, then the previous rate of 75% would have increased by a third of its own value, i.e. by 33%.
+
+_Inspired by Dilbert_
+
+![](https://i.imgur.com/h4e7Eay.gif)
 
 ## Next: [Percentage Points](03-percentage-points.md)
