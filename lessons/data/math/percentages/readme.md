@@ -17,6 +17,8 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 - 25%
 - 33%
 
+![Meme cartoon image of Neil deGrasse Tyson saying, "I dunno"](https://i.imgur.com/RHyuRIX.jpg)
+
 Read on to understand.
 
 ## Next: [Percent](01-percent.md)
