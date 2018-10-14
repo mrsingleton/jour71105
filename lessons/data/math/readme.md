@@ -33,6 +33,4 @@ by Rich Exner, _The Plain Dealer_, Nov 2011
 
 ![Cartoon about math majors](https://i.imgur.com/kcRK4xA.jpg)
 
-<img src="https://i.imgur.com/kcRK4xA.jpg" width="auto" height="500">
-
 ## Next: [Aggregates](aggregates/readme.md)
