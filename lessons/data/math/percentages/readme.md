@@ -5,8 +5,8 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 |:--|:--|
 |What's its part of the whole?|Percent|
 |How much did it increase (or decrease) over time?|Percent Change|
-|By how much did the percentage adjust?|Percentage Points|
-|tk|Percentile|
+|By how much did it adjust?|Percentage Points|
+|How does it compare to others?|Percentile|
 
 ## Brain teasers
 1. If a school's graduation rate goes from 75% to 100% in a year, by how many percentage points did it rise?
