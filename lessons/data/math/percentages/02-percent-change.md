@@ -22,7 +22,7 @@ Percent decrease will be a negative figure.
 
 Now let's revisit that brain teaser...
 
-25 is a third of 75, so if the graduation rate increased to 100%, then the previous rate of 75% would have increased by a third of its own value, i.e. by 33%.
+25 is a third of 75, so if the graduation rate increased to 100%, then the previous rate of 75% increased by a third of its own value, i.e. by 33%.
 
 _Inspired by Dilbert_
 
