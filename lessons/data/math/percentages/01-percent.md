@@ -32,7 +32,11 @@ In 2013, a national survey of journalists found reporters idendified politically
 
 Convert these figures into percentages.
 
+_Source: [Washington Post news story](https://www.washingtonpost.com/news/the-fix/wp/2014/05/06/just-7-percent-of-journalists-are-republicans-thats-far-less-than-even-a-decade-ago/?utm_term=.e12e3df8a021) that cited an [Indiana University study](http://archive.news.indiana.edu/releases/iu/2014/05/2013-american-journalist-key-findings.pdf)
+(see pg. 12)_
+
 ### Percent Spreadsheet Formula
+Now try your calculations using a spreadsheet tool and this formula:
 `=(A2/B2)*100`
 
 **Percent Spreadsheet Setup**
