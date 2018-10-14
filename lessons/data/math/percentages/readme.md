@@ -14,8 +14,8 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 - 33
 
 2. If a school's graduation rate goes from 75% to 100% in a year, what is the percentage increase?
-- 33%
 - 25%
+- 33%
 
 Read on to understand.
 
