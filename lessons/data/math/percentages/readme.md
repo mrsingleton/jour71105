@@ -8,4 +8,15 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 |By how much did the percentage adjust?|Percentage Points|
 |tk|Percentile|
 
+## Brain teasers
+1. If a school's graduation rate goes from 75% to 100% in a year, what is the percentage increase?
+a. 25%
+b. 33%
+
+2. If a school's graduation rate goes from 75% to 100% in a year, by how many percentage points did it rise?
+a. 33
+b. 25
+
+Read on to understand.
+
 ## Next: [Percent](01-percent.md)
