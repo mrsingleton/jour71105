@@ -1,1 +1,0 @@
-# Formulas and Functions
