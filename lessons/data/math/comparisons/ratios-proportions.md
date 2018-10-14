@@ -1,11 +1,11 @@
 # Ratios and Proportions
 It's good to use ratios to help your readers understand the relationship between two numbers and how large and small things compare to one another. They often compare two numbers and they're typically calculated in comparison to `1`.
 
-For instance, while a percentage can communicate...
+For instance, a percentage can communicate...
 
 >In 2018, the Red Sox won 66.67% of their games.
 
-a ratio can communicate the same quantity in a more comprehensible way by stating...
+however, a ratio can communicate the same quantity in a more comprehensible way by stating...
 
 >In 2018, the Red Sox had 2 wins for every one of their losses.
 
