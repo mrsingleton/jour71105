@@ -9,13 +9,13 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 |tk|Percentile|
 
 ## Brain teasers
-1. If a school's graduation rate goes from 75% to 100% in a year, what is the percentage increase?
-- 25%
-- 33%
-
-2. If a school's graduation rate goes from 75% to 100% in a year, by how many percentage points did it rise?
+1. If a school's graduation rate goes from 75% to 100% in a year, by how many percentage points did it rise?
 - 33
 - 25
+
+2. If a school's graduation rate goes from 75% to 100% in a year, what is the percentage increase?
+- 25%
+- 33%
 
 Read on to understand.
 
