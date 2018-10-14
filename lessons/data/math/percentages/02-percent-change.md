@@ -18,6 +18,10 @@ times 100
 Percent increase will be a positive figure.  
 Percent decrease will be a negative figure.
 
+## Significance of pct chg
+
+<iframe src="//datawrapper.dwcdn.net/wV4D1/11/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" width="600" height="560"></iframe>
+
 ## Practice
 Insert empty columns and calculate the percent change from 2016 to 2017 for these major U.S. cities.
 
