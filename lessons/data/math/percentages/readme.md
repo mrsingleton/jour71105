@@ -8,7 +8,7 @@ Percentages give us context by putting raw numbers into familiar terms using a c
 |By how much did it adjust?|Percentage Points|
 |How does it compare to others?|Percentile|
 
-## Brain teasers
+## Brain teaser
 1. If a school's graduation rate goes from 75% to 100% in a year, by how many percentage points did it rise?
 - 25
 - 33
