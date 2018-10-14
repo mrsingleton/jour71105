@@ -55,6 +55,4 @@ _Not to be confused with percent chance!_
 
 [![Percent Chance](https://i.imgur.com/lDNzVoy.png)](http://www.nytimes.com/newsgraphics/2016/10/18/presidential-forecast-updates/newsletter.html)
 
-<a href="http://www.nytimes.com/newsgraphics/2016/10/18/presidential-forecast-updates/newsletter.html" target="_blank"><img src="https://i.imgur.com/lDNzVoy.png" width="auto" height="500" /></a>
-
 ## Next: [Percentage Points](03-percentage-points.md)
