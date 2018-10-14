@@ -35,4 +35,24 @@ _Source: FBI Uniform Crime Reporting_
 - _[Table 6: 2017 U.S. Crime by Metro Statistical Area](https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/tables/table-6)_
 - _[Table 6: 2016 U.S. Offenses Known to Law Enforcement by City](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/tables/table-6/table-6.xls/view)_
 
+## Understanding populations
+U.S. election maps try to show which regions went to this candidate or to that party in what we recognize as red vs blue maps.
+
+But why can these maps be misleading to some?
+
+### Counties
+
+![](https://i.imgur.com/6Js053B.png)
+
+### Density Data
+
+![](https://i.imgur.com/WOxU6JW.png)
+
+### Density Real
+
+![](https://i.imgur.com/RuNkjkU.jpg)
+
+For more context, look at the density of metro area's worldwide. For instance, notice how New York City is not just 8 million, it's really 20 million.  
+[Metro areas of the world](https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_population)
+
 ## Next: [Ratios and Proportions](ratios-proportions.md)
