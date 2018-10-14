@@ -15,8 +15,9 @@ over Old
 times 100
 ```
 
-Percent increase will be a positive figure.
+Percent increase will be a positive figure.  
 Percent decrease will be a negative figure.
 
+tk
 
 ## Next: [Percentage Points](03-percentage-points.md)
