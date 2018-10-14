@@ -25,7 +25,7 @@ Finally, you could surround the equation with the `=ROUND()` function to shorten
 `=ROUND((A2/B2),2)&" wins for every one loss"`
 
 ## Practice
-A. Use column __D__ to calculate the ratio of total workers to every one minority worker at daily newspapers over the years, using the `x:1` format.
+A. Revisit the table of minority workers at daily newspapers and use column __D__ to calculate the ratio of total workers to every one minority over the years, using the `x:1` format.
 
 |Year|Total Work Force|Minorities In Work Force|Ratio|
 |:--|--:|--:|--:|
