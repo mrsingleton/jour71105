@@ -16,7 +16,7 @@ NOTE: Per capita figures are usually deep decimal values that are too small to m
 3. `=ROUND((A2/B2), 1)*100000`
 
 ## Practice
-Calculate the crime rate for these major U.S. cities in 2017 and 2016.
+Insert empty columns and calculate the crime rate for these major U.S. cities in 2017 and 2016.
 
 |City|2017 Pop|Violent Crime|Property Crime|2016 Pop|Violent Crime|Property Crime|
 |:--|--:|--:|--:|--:|--:|--:|
