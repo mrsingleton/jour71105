@@ -23,6 +23,15 @@ For clarity, when writing about numbers, convert odd sounding decimals into perc
 - Note that the resulting figure will be zero point something, `0.xxx`
 3. Multiply that by `100`
 
+### Skill Drill
+In 2013, a national survey of journalists found reporters idendified politically as follows:
+
+|Dem|Rep|Ind|Oth|
+|--|--|--|--|
+|303|77|542|158|
+
+Convert these figures into percentages.
+
 ### Percent Spreadsheet Formula
 `=(A2/B2)*100`
 
