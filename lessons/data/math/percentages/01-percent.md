@@ -17,6 +17,11 @@ For clarity, when writing about numbers, convert odd sounding decimals into perc
 |10%|0.1|1/10|one tenth|
 |90%|0.9|9/10|9 out of 10|
 
+### General Tip
+Always ask, part of how much?
+
+<img src="https://i.imgur.com/2W9uYA7.gif" width="*" height="350">
+
 ## To calculate percent
 1. Determine the whole
 2. Divide the part by the whole
@@ -35,11 +40,11 @@ Convert these figures into percentages.
 _Source: [Washington Post news story](https://www.washingtonpost.com/news/the-fix/wp/2014/05/06/just-7-percent-of-journalists-are-republicans-thats-far-less-than-even-a-decade-ago/?utm_term=.e12e3df8a021) that cited an [Indiana University study](http://archive.news.indiana.edu/releases/iu/2014/05/2013-american-journalist-key-findings.pdf)
 (see pg. 12)_
 
-### Percent Spreadsheet Formula
+## Percent as a spreadsheet formula
 Now try your calculations using a spreadsheet tool and this formula:
 `=(A2/B2)*100`
 
-**Percent Spreadsheet Setup**
+### Percent Spreadsheet Setup
 
 | Part | Whole | Pct |
 |--:|--:|--:|
