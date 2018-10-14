@@ -7,4 +7,8 @@ __To calculate percentile, take the number of people at a given score point and 
 
 Percentile is also used to evaluate qualities, such as height. Are you tall or are you short? It depends who you're being compared to. A kid who is considered tall among his or her second grade classmates is not still considered tall among most other people. So while they might be in the 99th percentile at school, they could be in the 39th percentile at home.
 
+And by some measures, a mid-range percentile could be ideal. For instance, when it's used to evaluate weight. Healthy weight is considered neither overweight or underweight, but somewhere in between.
+
+![](https://i.imgur.com/WnbeS27.jpg)
+
 ## Next: [Comparisons](../comparisons/readme.md)
