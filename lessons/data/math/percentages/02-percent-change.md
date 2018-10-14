@@ -3,6 +3,10 @@ Use this to detect developments in home prices, school performance, political do
 
 Percent change, also called percentage increase and decrease, is the amount a given number gains or loses value when compared to a comparable number, typically measured over time.
 
+## Significance of pct chg
+[Where (and where not) to expect huge tuition increases](https://datawrapper.dwcdn.net/wV4D1/11/)
+
+
 __To calculate percent change__
 1. Subtract the new figure from the old figure
 2. Then divide that result by the old figure
@@ -18,9 +22,18 @@ times 100
 Percent increase will be a positive figure.  
 Percent decrease will be a negative figure.
 
-## Significance of pct chg
+### Spreadsheet Formula
+`=((B2-A2)/A2)100`
 
-[Where (and where not) to expect huge tuition increases](https://datawrapper.dwcdn.net/wV4D1/11/)
+#### Spreadsheet Setup
+
+| Old | New | Pct Chg |
+|--:|--:|--:|
+|`A2`|`B2`|`=((B2-A2)/A2)100`|
+|`A3`|`B3`|`=((B3-A3)/A3)100`|
+|`A4`|`B4`|`=((B4-A4)/A4)100`|
+
+---
 
 _Not to be confused with percent chance!_
 
