@@ -13,7 +13,7 @@ Refer back to what you just learned in the [Percent Change lesson](02-percent-ch
 Conversely, if the 5.4% unemployment rate went down by 1.8 percentage points to 3.6%, then by how much would it have dropped, percentage-wise?
 
 >A slice is a small part of the large pie, but a bite is a large part of the small slice.  
--- _ancient journalism proverb_
+-- _ancient proverb that I just made up_
 
 ![](https://i.imgur.com/uBfRkzc.jpg)
 
