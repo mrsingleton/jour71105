@@ -110,4 +110,50 @@ B. Copy and paste the following table of employees at daily newspapers into a sp
 
 _Source: American Society of News Editors (ASNE), [Table A: Minority Employment in Daily Newspapers](https://www.asne.org/content.asp?pl=140&sl=129&contentid=129)_
 
+---
+
+### Percent of what whole?
+News stories frequently mention *millions* this and *billions* that, so it is crucial to comprehend the difference in scale.
+
+In your estimation, one million is what percent of one billion?
+
+- 10%
+- 1%
+- 0.1%
+- 0.01%
+
+---
+
+### Is over Of
+
+To figure out what percentage something __is of__ something else, use good old algebra...
+
+`is over of = x% over 100`
+
+and
+
+`is * 100 over of = x%`
+
+so
+
+`1m * 100 over 1b = x%`
+
+or
+
+`100,000,000 over 1,000,000,000 = 0.1%`
+
+i.e.
+
+`One million is just a fraction of a percent of one billion (less than one percent).`
+
+hmm...
+
+- One million seconds is 11 days
+- One billion seconds is 31 years
+- One trillion seconds is 317 centuries
+
+![Animated gif image of Kobe Bryant reacting to something in disbelief](https://i.imgur.com/1WFhioY.gif)
+
+---
+
 ## Next: [Percent Change](02-percent-change.md)
