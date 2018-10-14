@@ -14,7 +14,8 @@ by Gillian B. White, The Atlantic, Jul 2015
 
 ## Tips
 Writing well about numbers is also key. Use these resources to learn more:
-- [Poynter: Writing With Numbers](https://www.poynter.org/news/writing-numbers)
+- [Writing about numbers](https://www.slideshare.net/AmandaSturgill/writing-about-numbers)
+- [Writing With Numbers](https://www.poynter.org/news/writing-numbers)
 - [Number and Numeral Writing Tips](http://www.word-mart.com/html/number_and_numeral_writing_tip.html)
 
 ### Example
@@ -30,6 +31,12 @@ by Rich Exner, _The Plain Dealer_, Nov 2011
 
 ### Further Reading
 [Why Math Matters](https://www.poynter.org/news/why-math-matters)
+
+### Resources
+- [Statistics for Journalists](https://tcij.org/sites/default/files/u4/CIJ_Statistics_for_Journalists_26_05_11.pdf)
+- [Math basics for journalists](https://journalistsresource.org/tip-sheets/foundations/math-for-journalists)
+- [Statistics Every Writer Should Know](http://www.robertniles.com/stats/)
+- [Math in Daily Life](http://www.learner.org/interactives/dailymath/)
 
 ![Cartoon about math majors](https://i.imgur.com/kcRK4xA.jpg)
 
