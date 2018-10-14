@@ -22,6 +22,12 @@ Similar to a nut graf, many articles -- news and opinion alike -- include what w
 >At a penny an ounce, the sweetened beverage tax can add 30 percent or more to the purchase price of drinks. That line item on your grocery receipt can easily exceed the total 10.25 percent local sales tax on everything in the cart.  
 >[Chicago Tribune Editorial, Sep 2017](http://www.chicagotribune.com/news/opinion/editorials/ct-edit-soda-tax-preckwinkle-repeal-20170927-story.html)
 
+### Story Idea
+Here's an interesting piece and also a good one to tackle for your own location using recent data.
+
+[Minimum wage job no longer can cover the typical college bill](http://www.cleveland.com/datacentral/index.ssf/2011/11/a_minimum_wage_job_no_longer_c.html)  
+by Rich Exner, _The Plain Dealer_, Nov 2011
+
 ### Further Reading
 [Why Math Matters](https://www.poynter.org/news/why-math-matters)
 
