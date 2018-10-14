@@ -43,4 +43,6 @@ Use the following data to calculate the mean from among the donation amounts.
 - Is this figure representative of all the values?
 - Why or why not?
 
+![Animated gif of a girl looking dumbfounded](https://www.wired.com/wp-content/uploads/2015/03/855.gif)
+
 ## Next: [Median](02-median.md)
