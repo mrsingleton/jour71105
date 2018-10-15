@@ -27,8 +27,8 @@ Use the `=SUM()` function to answer the question, "how much?" It returns a calcu
 - To count just the unique values (numeric or text) in a set, use the [`=COUNTUNIQUE()`](https://support.google.com/docs/answer/3093405?hl=en&authuser=0) function.
 - There are lots of functions for lots of purposes. See Google Sheets' [functions list](https://support.google.com/docs/table/25273?hl=en&ref_topic=3105474&authuser=0) for more.
 
-### Challenge
-Use the Count and Sum functions on the following campaign donations.
+### Practice
+Use the Count and Sum functions on the following hypothetical campaign donations.
 
 |Donor|Type|Recipient|Party|Amount|
 |:--|:--|:--|:--|--:|
