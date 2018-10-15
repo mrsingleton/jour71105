@@ -23,7 +23,7 @@ To find a value's place in a hierarchy, use the `=RANK()` function, which return
 By default, the rank order is ascending, meaning the highest value in the range has the top rank. To use descending order and give the lowest value the top rank, include a 1 after the evaluation range (ascending also works by including a 0 after the evaluation range).
 
 ### Tips
-There's also `=MAXA()` and `=MINIF()` etc.
+There's also `=MAXA()` and `=MINIFS()` etc.
 
 ## Practice
 Use the same campaign donations data from the [COUNT/SUM lesson](01-count-sum.md) and answer the following questions:
