@@ -53,10 +53,10 @@ Use the Count and Sum functions on the following hypothetical campaign donations
 
 Copy and paste this data into your spreadsheet app and find the following:
 1. How many donors are there are overall?
-2. How much donation money there is there overall?
+2. How much donation money is there overall?
 3. How many donations are there for each party?
 4. How many donors were individuals and how many were corporations?
-5. How much did these donors gave to each political party?
+5. How much did these donors give to each political party?
 6. How much donation money came from individuals and how much came from corporations?
 7. How many unique recipients are there?
 
