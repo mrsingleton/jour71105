@@ -15,7 +15,7 @@ The mean is the only average calculated mathematically. The resulting figure wil
 ### Note
 The `=AVERAGE()` function does the same job as the mathematical approach achievable with the `=SUM()` and the division operator `/`.
 
-## Challenge
+## Practice
 Use the following data to calculate the mean from among the donation amounts.
 
 |Donor|Type|Recipient|Party|Amount|
