@@ -10,9 +10,6 @@ There are different kinds of averages and different cases for using each, depend
 |What number is right in the middle?|__Median__|
 |What number occurs most?|__Mode__|
 
-### They each have special powers
-![](https://i.imgur.com/RyYvrnb.jpg)
-
 ### Best Practice
 Calculate all three, then evaluate which result is most relevant to the story you're reporting.
 
