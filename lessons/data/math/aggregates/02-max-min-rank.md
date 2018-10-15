@@ -25,7 +25,7 @@ By default, the rank order is ascending, meaning the highest value in the range 
 ### Tips
 There's also `=MAXA()` and `=MINIF()` etc.
 
-## Challenge
+## Practice
 Use the same campaign donations data from the [COUNT/SUM lesson](01-count-sum.md) and answer the following questions:
 1. What is the greatest amount donated to Democrats?
 2. What is the least amount donated by a corporation?
