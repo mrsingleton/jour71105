@@ -115,7 +115,7 @@ _Source: American Society of News Editors (ASNE), [Table A: Minority Employment 
 ### Percent of what whole?
 News stories frequently mention *millions* this and *billions* that, so it is crucial to comprehend the difference in scale.
 
-In your estimation, one million is what percent of one billion?
+In your estimation, one million `1m` is what percent of one billion `1b`?
 
 - 10%
 - 1%
