@@ -8,7 +8,8 @@
 4. Select institutions by name or by comma-separated Unit ID codes (don't select a comparison institution). For instance, use the __Institution Name__ live search field to enter the following ID numbers for 30 major four-year schools in the Tri-State region:
 `188429,189097,190150,190512,190549,190567,190594,190637,190646,190664,190558,190691,191241,191649,192439,192448,193900,194310,186131,130226,186380,186399,186584,195809,196176,196237,187134,129020,130697,130794`  
 ![Screenshot of institution input screen](institution-name.png)
-5. Click the __Check All__ option to select all institutions, then click the __Continue__ button.
+5. Click the __Check All__ option to select all institutions, then click the __Continue__ button.  
+![Screenshot showing the check all feature](check-all.png)
 6. Look over the list and click the __Continue__ button to move to the "Select Templates" options.  
 ![Screenshot of the selection results list](finish-selecting.png)
 7. Expand the __Institutional Characteristics and Student Charges__ section, then choose __Price trends__.  
