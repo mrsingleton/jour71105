@@ -3,11 +3,10 @@ Use this to detect developments in home prices, school performance, political do
 
 Percent change, also called percentage increase and decrease, is the amount a given number gains or loses value when compared to a comparable number, typically measured over time.
 
-## Significance of pct chg
+__Significance of pct chg__  
 [Where (and where not) to expect huge tuition increases](https://datawrapper.dwcdn.net/wV4D1/11/)
 
-
-__To calculate percent change__
+## To calculate percent change
 1. Subtract the new figure from the old figure
 2. Then divide that result by the old figure
 3. Multiply by 100 to get x%
