@@ -4,7 +4,7 @@
 
 ## Create news packages that inform your readers and also involve them as users
 
-Congratulations on joining the journalism course that introduces you to the basics of producing your own interactive reporting for the web. This "computational journalism" course covers fundamental tech skills that give news media students a foundation in computer science and data science.
+Congratulations on joining the journalism course that introduces you to the basics of producing interactive reporting for the web. This "computational journalism" course covers fundamental tech skills that give news media students a foundation in computer science and data science.
 
 ### Key takeaways
 - Learn to conceptualize and produce content for the web by exploring sophisticated tools and digital story forms.
