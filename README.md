@@ -4,13 +4,13 @@
 
 ## Create news packages that inform your readers and also involve them as users
 
-Congratulations on joining the journalism course that introduces you to the basics of producing your own interactive reporting for the web.
+Congratulations on joining the journalism course that introduces you to the basics of producing your own interactive reporting for the web. This "computational journalism" course covers fundamental tech skills that give news media students a foundation in computer science and data science.
 
 ### Key takeaways
 - Learn to conceptualize and produce content for the web by exploring sophisticated tools and digital story forms.
-- Study how the industry is adapting to new tech, including ways to map or illustrate data for news.
-- Master the most fundamental skills by learning to write HTML and CSS -- the core coding languages of web design.
-- Explore all these technologies in the context of news, journalism, reporting, and storytelling.
+- Study how the news industry is adopting new tech and requiring reporters to analyze and visualize data.
+- Master the most fundamental skills by learning to write HTML and CSS -- two core coding languages of the web.
+- Explore all these technologies in the context of news, journalism, reporting, and objective storytelling.
 
 __This three-credit course covers the basic technical skills that serve as the foundation for your coursework in the CUNY Graduate School of Journalism's interactive curriculum.__
 
