@@ -17,3 +17,5 @@ __This three-credit course covers the basic technical skills that serve as the f
 ### Course information
 
 Read the full course outline, syllabus, schedule, and other important information in <a href="https://github.com/mrsingleton/jour71105/wiki" target="_blank">this repo's wiki</a>.
+
+<hr><p style="font-size: 8px;">Noun Project <a href="https://thenounproject.com/search/?q=newspaper&i=1104572" target="_blank">Newspaper icon</a> by lastspark</p>
