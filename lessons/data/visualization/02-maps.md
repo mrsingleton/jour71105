@@ -10,7 +10,7 @@ They offer this information in map-friendly file formats including "shapefiles" 
 Shapefiles can be read by certain software (ArcGIS, QGIS and others), yet GeoJSON can be read by the human eye (sort of).
 
 ## Example
-These are the boundaries of NYC's five boroughs in GeoJSON form
+These are the boundaries of NYC's five boroughs in GeoJSON form:
 
 [Borough Boundaries](http://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/nybbwi/FeatureServer/0/query?where=1=1&outFields=*&outSR=4326&f=geojson)
 
@@ -20,6 +20,7 @@ Do a text search (Cmd+F) for _BoroName_
 
 What patterns do you see?
 
+## Walk through
 Now get the GeoJSON for the School Districts
 
 Save this file right from your browser:
