@@ -22,6 +22,8 @@ Do a text search (Cmd+F) for _BoroName_
 
 What patterns do you see?
 
+Github can display GeoJSON files. Read "[Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github/)" for instructions and options.
+
 ## Walk through
 Now get the GeoJSON for the School Districts
 
