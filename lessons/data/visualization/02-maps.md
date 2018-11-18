@@ -1,6 +1,8 @@
 # Maps
 tk
 
+[Check out Mapbox Help](https://www.mapbox.com/studio-manual/help/)
+
 The NYC Department of City Planning (DCP) website's OPEN DATA section gives the public access to map-friendly versions of the city's numerous political divisions, such as school districts, police precincts, community board zones, city council jurisdictions and more.
 
 They offer this information in map-friendly file formats including "shapefiles" and "GeoJSON"
