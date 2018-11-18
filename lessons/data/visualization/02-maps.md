@@ -11,6 +11,7 @@ Shapefiles can be read by certain software (ArcGIS, QGIS and others), yet GeoJSO
 
 ## Example
 These are the boundaries of NYC's five boroughs in GeoJSON form
+
 [Borough Boundaries](http://services5.arcgis.com/GfwWNkhOj9bNBqoJ/arcgis/rest/services/nybbwi/FeatureServer/0/query?where=1=1&outFields=*&outSR=4326&f=geojson)
 
 What do think this information is?
