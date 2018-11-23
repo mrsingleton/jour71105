@@ -64,7 +64,7 @@ The basic format of GeoJSON code follows this format:
         ]
     },
     "properties": {
-        "name": "New York City"
+        "name": "Newmark J School"
     }
 }
 ```
