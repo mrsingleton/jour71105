@@ -59,26 +59,13 @@ The basic format of GeoJSON code follows this format:
     "geometry": {
         "type": "Point",
         "coordinates": [
-        40.xxx,
-        -73.xxx
+        40.75544,
+        -73.9890067
         ]
     },
     "properties": {
         "name": "New York City"
     }
-}
-```
-
-```geojson
-{
-    "id": "{feature_id}",
-    "type": "Feature",
-    "geometry": {
-        "type": "Point",
-        "coordinates": [
-        -105.01621,
-        39.57422
-    ]
 }
 ```
 
