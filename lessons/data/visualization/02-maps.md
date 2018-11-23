@@ -52,7 +52,7 @@ Once you upload a GeoJSON file to Mapbox Studio, it reads and renders the "featu
 
 The basic format of GeoJSON code follows this format:
 
-```json
+```geojson
 {
     "id": "{feature_id}",
     "type": "Feature",
