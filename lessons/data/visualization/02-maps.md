@@ -66,6 +66,16 @@ The basic format of GeoJSON code follows this format:
 }
 ```
 
+```geojson
+{
+    "type": "Point",
+    "coordinates": [
+        -105.01621,
+        39.57422
+    ]
+}
+```
+
 __Geometry__ defines a feature's `type` and also its lat/long `coordinates`. A geometry type can be a point, a line or a polygon.
 
 __Properties__ list the things that describe the feature, such as its title and its description. This info is shown in popup boxes.
