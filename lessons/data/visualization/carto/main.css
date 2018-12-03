@@ -1,0 +1,69 @@
+/* CSS file */
+
+body {
+  background-color: #ccc;
+  color: #333;
+}
+
+/* All page elements will be inside this container block, which is also centered */
+main {
+  width: 70%;
+  margin: 0 auto; 
+}
+
+/* All text within the header block will be center aligned */
+header {
+  text-align: center;
+}
+
+/* each new section will clear both columns and go again directly beneath
+section {
+  clear: both;
+} */
+
+/* used for text blurb, "floated" to the right of the aside witht the icon image...
+article {
+  float: right;
+  width: 79%;
+}
+*/
+
+/* Headline styles */
+h1 {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 48px;
+}
+
+/* Subhead styles */
+h2 {
+  font-family: Tahoma;
+  font-style: italic;
+  color: #666;
+}
+
+/* Article headline styles */
+h3 {
+  font-family: Georgia;
+  padding: 0 20px;
+}
+
+/* Footer style */
+h4 {
+  font-family: Georgia;
+}
+
+/* Text styles for all paragraphs */
+p {
+  color: #333;
+  font-size: 18px;
+  font-family: Lucida Grande;
+  vertical-align: top;
+  padding: 0 20px;
+}
+
+/* Note that the footer row is also cleared beneath both columns */
+footer {
+  clear: both;
+  text-align: center;
+}
