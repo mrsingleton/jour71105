@@ -12,7 +12,7 @@ If you know the URL and dimensions and a few other particulars about the source 
 ## Attributes
 |Attribute property|Attribute value|Notes|
 |:--:|:--:|:--|
-|`allow`|`fullscreen`|...|
+|`allow`|...|Specifies a feature policy, such as `autoplay`, `fullscreen`, `geolocation`|
 |`height`|`150`|The height of the frame in pixels. The default is 150.|
 |`name=`|...|Used by the `target` attribute of HTML's `<a>`, `<form>`, or `<base>` tags; by the `formtarget` attribute of HTML's `<input>` or `<button>` tags; or the `windowName` parameter in JavaScript's `window.open()` method.|
 |`src=`|`htts://...`|Full URL of the resource being embedded|
