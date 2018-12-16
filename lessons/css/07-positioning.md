@@ -591,3 +591,7 @@ input[type=text] {
 </body>
 </html> 
 ```
+
+---
+
+Copyright &copy; 2018 by Malik Singleton. All rights reserved.
