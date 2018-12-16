@@ -52,3 +52,7 @@ Note that the location of the .css file must be specified.
 ## Challenge
 1. Link a .css file from the same folder as your .html file.
 2. Link a .css file from a _subfolder_ of your .html file's folder.
+
+---
+
+Copyright &copy; 2018 by Malik Singleton. All rights reserved.
