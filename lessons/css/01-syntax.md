@@ -37,3 +37,7 @@ This is how to write a
 multi-line CSS comment
 */
 ```
+
+---
+
+Copyright &copy; 2018 by Malik Singleton. All rights reserved.
