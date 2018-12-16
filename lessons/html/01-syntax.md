@@ -40,7 +40,7 @@ Commenting your code is important for a number of reasons:
 
 # Challenge
 1. Omit any one of the symbols from a full element; resave the code file; then refresh the page in your browser. Try this again by omitting a different symbol. Note any ways that the web page becomes _broken_ and note how the browser interprets each omission.
-2. Look up HTML's "self closing tags"
+2. Look up "HTML self closing tags"
 
 ---
 
