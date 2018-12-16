@@ -38,3 +38,7 @@ blockquote {
 
 ### Note
 The round value of the the background-repeat property forces the image to repeat and stretch to fill the space with no gaps.
+
+---
+
+Copyright &copy; 2018 by Malik Singleton. All rights reserved.
