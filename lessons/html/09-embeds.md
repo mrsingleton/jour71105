@@ -31,3 +31,7 @@ Many online services, such as social media networks, that allow you to embed the
 - A Google Maps example
 - A Google Drive Slides presentation 
 - A PDF
+
+---
+
+Copyright &copy; 2018 by Malik Singleton. All rights reserved.
