@@ -19,7 +19,7 @@ tk
 tk
 
 ## Geography Glossary
-Review these terms...
+Review [glossary terms](glossary.md) to learn more about mapping
 
 ## Map Types
 - Point map
