@@ -8,9 +8,11 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Border
 - Census block
 - Choropleth
+- Circle
 - Community District
 - Compass
 - Continent
+- Continental Drift
 - Contour
 - Coordinates
 - Country
@@ -40,6 +42,7 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Navigation
 - Neighborhood Tabulation Area
 - Ocean
+- Pangea
 - Parallel
 - Point map
 - Pole
@@ -49,6 +52,7 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Precinct
 - Prime Meridian
 - Projection
+- Province
 - Quadrangle
 - Quadrant
 - Region
@@ -57,10 +61,12 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Sea Level
 - Shape file
 - Size
-- Spatial
+- Spatial data
+- State
 - Time Series map
 - Time Zone
 - Topography
+- Tropic
 - Water
 - Where
 - Zip Code
