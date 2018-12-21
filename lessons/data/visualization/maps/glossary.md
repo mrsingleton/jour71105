@@ -1,0 +1,68 @@
+## Geography Glossary
+Get familiar with the following vocabulary to be conversant in map-speak.
+- Altitude
+- Area
+- Area code
+- Atlas
+- Axis
+- Border
+- Census block
+- Choropleth
+- Community District
+- Compass
+- Continent
+- Contour
+- Coordinates
+- Country
+- County
+- Degree
+- District
+- Election map
+- FIPS code
+- Geography
+- Geolocation
+- Geology
+- Globe
+- Greenwich Mean Time
+- Heat map
+- Hemisphere
+- Info box
+- International Date Line
+- Key
+- Land
+- Latitude
+- Legend
+- Location
+- Longitude
+- Map
+- Meridian
+- Minute
+- Navigation
+- Neighborhood Tabulation Area
+- Ocean
+- Parallel
+- Point map
+- Pole
+- Political map
+- Positioning
+- Postal code
+- Precinct
+- Prime Meridian
+- Projection
+- Quadrangle
+- Quadrant
+- Region
+- Satellite view
+- Scale
+- Sea Level
+- Shape file
+- Size
+- Spatial
+- Time Series map
+- Time Zone
+- Topography
+- Water
+- Where
+- Zip Code
+- Zone
+- Zoom
