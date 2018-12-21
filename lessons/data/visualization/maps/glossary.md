@@ -9,7 +9,7 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Boundary
 - Cartography
 - Census block
-- Choropleth
+- Choropleth map
 - Circle
 - Community District
 - Compass
