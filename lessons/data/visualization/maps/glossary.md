@@ -11,6 +11,7 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Census block
 - Choropleth map
 - Circle
+- Coast
 - Community District
 - Compass
 - Continent
@@ -65,6 +66,7 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Scale
 - Sea Level
 - Shape file
+- Shore
 - Size
 - Solstice
 - Spatial data
