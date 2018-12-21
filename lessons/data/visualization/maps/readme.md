@@ -19,10 +19,15 @@ tk
 tk
 
 ## Geography Glossary
-tk
+Review these terms...
 
 ## Map Types
-tk
+- Point map
+- Choropleth map
+- Heat map
+- Intensity map
+- Time Series map
 
 ## Mapping Tools
 tk
+- Carto
