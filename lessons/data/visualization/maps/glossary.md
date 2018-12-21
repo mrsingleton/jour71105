@@ -6,6 +6,8 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Atlas
 - Axis
 - Border
+- Boundary
+- Cartography
 - Census block
 - Choropleth
 - Circle
@@ -20,6 +22,9 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Degree
 - District
 - Election map
+- Elevation
+- Equator
+- Equinox
 - FIPS code
 - Geography
 - Geolocation
@@ -61,6 +66,7 @@ Get familiar with the following vocabulary to be conversant in map-speak.
 - Sea Level
 - Shape file
 - Size
+- Solstice
 - Spatial data
 - State
 - Time Series map
