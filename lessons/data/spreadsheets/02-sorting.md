@@ -1,7 +1,5 @@
-# Sorting and Filtering
-Get familiar with the info your dataset by activating the spreadsheet tool's built-in analysis features.
-- Use sorting to flip the order of rows according to the columns you specify and their alphanumeric direction.
-- Use filtering to temporarily hide irrelevant data and focus only on relevant information.
+# Sorting
+Use sorting to flip the order of rows according to the columns you specify and their alphanumeric direction.
 
 ## To sort spreadsheet data
 1. Highlight a column to sort by.
