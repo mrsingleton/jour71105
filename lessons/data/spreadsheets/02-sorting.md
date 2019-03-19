@@ -4,11 +4,11 @@
 - Then choose an upward or downward alphanumeric direction.
 
 ### Tip
-__Sorting on colums helps you answer questions such as, _What are the top 10 this_ or _What are the bottom 5 that_ from a dataset of many rows.__
+__Sorting on colums helps you point out the most extreme values in a dataset, then answer questions such as, _What are the top 10 names_ or _What are the bottom 5 items_ or _What  from a dataset of many rows.__
 
 ## To sort spreadsheet data
 1. Highlight a column to sort by.
-2. Click the top menu's __Data__ item and choose the __Sort range...__ option.
+2. Look in the top menu, find the __Data__ label and choose its __Sort range...__ option.
 3. In the prompt window, mark the checkbox if your column's first row is a title.
 4. Select the column you want to sort by in the dropdown options list
 5. Mark either button for ascending (A-Z and 1,2,3...) or descending (Z-A and ...3,2,1) sort order.
