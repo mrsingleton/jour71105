@@ -4,7 +4,7 @@
 - Then choose an upward or downward alphanumeric direction.
 
 ### Tip
-__Sorting on colums helps you point out the most extreme values in a dataset, then answer questions such as, _What are the top 10 names_ or _What are the bottom 5 items_ or _What  from a dataset of many rows.__
+__Sorting on colums helps you point out the most extreme values in a dataset, then answer questions such as, _What are the top 10 names_ or _What are the bottom 5 items_ or _What are the latest dates.__
 
 ## To sort spreadsheet data
 1. Highlight a column to sort by.
