@@ -9,6 +9,10 @@ you can swap them vertically so that they appear as a list instead. This is also
 ## Syntax
 `=TRANSPOSE(A1:J1)` where `A1` represents the first or leftmost cell and `J1` represents the last or rightmost cell.
 
+## Sample data
+For the next few exercises we will use the following dataset.
+
+
 ## Example
 Transposing puts the data from a horizontal row into a vertical column, following this logic.
 
