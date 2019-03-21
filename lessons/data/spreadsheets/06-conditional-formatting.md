@@ -5,6 +5,6 @@ tk
 - Pick __Color scale__ from the __Contional format rules__ pane
 - Under __Format rules__, select __Green to white to red__
 
-Try to recreate this color scale:
+Use your transposed data to recreate this color scale for the __age__ values:
 
 ![](https://i.imgur.com/i6pwQ46.png)
