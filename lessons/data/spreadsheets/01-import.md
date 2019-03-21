@@ -37,4 +37,7 @@ Sometimes you'll be provided CSV data that isn't in file format. Data viewed in 
 
 6. Click it and choose Split text to columns. Viola!
 
+## Exercise
+Import the [exonerations CSV](https://raw.githubusercontent.com/wireservice/agate/master/examples/realdata/exonerations-20150828.csv)
+
 ## Next: [Transpose](02-transpose.md)
