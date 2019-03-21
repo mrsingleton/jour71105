@@ -8,6 +8,6 @@ Use dynamic pivoting to shift data around and surface insightful revelations.
 
 Use the [exonerations dataset](https://github.com/onyxfish/agate/raw/master/examples/realdata/exonerations-20150828.csv) and try to recreate this pivot table:
 
-![](https://i.imgur.com/DdQ32xB.png)
+![](https://i.imgur.com/N9SBZtg.png)
 
 ## Next: [Conditional Formatting](06-conditional-formatting.md)
