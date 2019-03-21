@@ -1,4 +1,4 @@
-# Pivot data
+# Pivot Tables
 
 1. Highlight all of the data.
 2. Use the top menu to select Data » Pivot table.
