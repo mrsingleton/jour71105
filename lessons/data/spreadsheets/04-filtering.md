@@ -12,3 +12,5 @@ __Filtering helps you drill down to specific data points and answer questions su
 5. To filter by values, uncheck items that don't match your criteria.
 6. To filter by terms, enter keywords into the input field for live search response.
 7. To turn off the filter, click __Data__ from the top menu, then __Turn off filter__.
+
+## Next: [Pivoting](05-pivoting.md)
