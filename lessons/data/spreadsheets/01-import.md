@@ -37,4 +37,4 @@ Sometimes you'll be provided CSV data that isn't in file format. Data viewed in 
 
 6. Click it and choose Split text to columns. Viola!
 
-## Next: [Transposing](02-transposing.md)
+## Next: [Transpose](02-transpose.md)
