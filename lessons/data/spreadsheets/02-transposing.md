@@ -1,4 +1,4 @@
-# Transpose
+# Transposing data
 When your dataset's column headers are tough to read because...
 - there are lots of them
 - they're each pretty long
