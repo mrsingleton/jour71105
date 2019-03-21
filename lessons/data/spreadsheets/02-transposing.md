@@ -10,9 +10,10 @@ you can swap them vertically so that they appear as a list instead. This is also
 `=TRANSPOSE(A1:Z1)` where `A1` represents the first or leftmost cell and `Z1` represents the last or rightmost cell.
 
 ## Example
+Transposing puts the data from a horizontal row into a vertical column, following this logic.
 
-|A1|B1|C1|D1|E1|F1|G1|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|A1|B1|C1|D1|E1|F1|G1|H1|I1|J1|K1|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
 |A1|
 |:--:|
@@ -22,6 +23,10 @@ you can swap them vertically so that they appear as a list instead. This is also
 |A5|
 |A6|
 |A7|
+|A8|
+|A9|
+|A10|
+|A11|
 
 ## Transpose and sample
 It's also smart to swap the first few rows in the process so you get an overview of how the data relates to the headers.
