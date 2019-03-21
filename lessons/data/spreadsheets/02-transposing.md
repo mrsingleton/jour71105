@@ -4,7 +4,7 @@ When your dataset's column headers are tough to read because...
 - they're each pretty long
 - they're overlapping
 
-you can swap them vertically so that they appear as a list instead.
+you can swap them vertically so that they appear as a list instead. This is also true for any particular row.
 
 ## Syntax
 `=TRANSPOSE(A1:Z1)`
