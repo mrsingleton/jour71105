@@ -3,4 +3,4 @@ Get familiar and comfortable with the features and abilities of spreadsheets so 
 
 Use the following lessons to get started.
 
-## Next: [Importing](01-importing.md)
+## Next: [Import](01-import.md)
