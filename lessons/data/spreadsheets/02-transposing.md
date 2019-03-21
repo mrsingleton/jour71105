@@ -7,7 +7,7 @@ When your dataset's column headers are tough to read because...
 you can swap them vertically so that they appear as a list instead. This is also true for any particular row.
 
 ## Syntax
-`=TRANSPOSE(A1:Z1)`
+`=TRANSPOSE(A1:Z1)` where `A1` represents the first or leftmost cell and `Z1` represents the last or rightmost cell.
 
 ## Transpose and sample
 It's also smart to swap the first few rows in the process so you get an overview of how the data relates to the headers.
