@@ -10,8 +10,7 @@ you can swap them vertically so that they appear as a list instead. This is also
 `=TRANSPOSE(A1:J1)` where `A1` represents the first or leftmost cell and `J1` represents the last or rightmost cell.
 
 ## Sample data
-For the next few exercises we will use the following dataset.
-
+For the next few exercises we will use the [exonerations dataset](https://github.com/onyxfish/agate/raw/master/examples/realdata/exonerations-20150828.csv)
 
 ## Example
 Transposing puts the data from a horizontal row into a vertical column, following this logic.
