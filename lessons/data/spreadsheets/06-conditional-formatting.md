@@ -1,5 +1,5 @@
 # Conditional Formatting
-tk
+The spreadsheet tool lets you apply a color scale that provides you with visual cues about the values.
 
 - Click __Format__ in the top menu and choose __Conditional formatting...__
 - Pick __Color scale__ from the __Contional format rules__ pane
