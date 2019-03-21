@@ -6,6 +6,7 @@ Use dynamic pivoting to shift data around and surface insightful revelations.
 3. Select items to display for the table's rows, columns, values, and filters.
 4. Keep trying alternate combinations.
 
+## Dataset
 Use the [exonerations dataset](https://github.com/onyxfish/agate/raw/master/examples/realdata/exonerations-20150828.csv) and try to recreate this pivot table:
 
 ![](https://i.imgur.com/N9SBZtg.png)
