@@ -14,7 +14,7 @@ you can swap them vertically so that they appear as a list instead. This is also
 |A1|B1|C1|D1|E1|F1|G1|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
-
+|:--:|
 |A1|
 |A2|
 |A3|
@@ -22,7 +22,6 @@ you can swap them vertically so that they appear as a list instead. This is also
 |A5|
 |A6|
 |A7|
-|:--:|
 
 ## Transpose and sample
 It's also smart to swap the first few rows in the process so you get an overview of how the data relates to the headers.
