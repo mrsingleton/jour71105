@@ -1,5 +1,5 @@
 # Filter data
-Use filtering to temporarily hide irrelevant data and focus only on relevant information.
+Use filtering to temporarily hide less relevant data and focus only on the most relevant contents that you want to understand.
 
 ### Tip
 __Filtering helps you drill down to specific data points and answer questions such as, _Who or what meet the exact criteria of A and B vs X or Y_?__
