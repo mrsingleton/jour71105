@@ -39,3 +39,5 @@ It's also smart to swap the first few rows in the process so you get an overview
 - and call into it the range of data that you want from `Sheet1` by referencing all of those cells...
 
 `=TRANSPOSE(Sheet1!A1:Sheet1!J6)`
+
+## Next: [Sorting](03-sorting.md)
