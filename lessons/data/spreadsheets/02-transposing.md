@@ -14,9 +14,8 @@ you can swap them vertically so that they appear as a list instead. This is also
 |A1|B1|C1|D1|E1|F1|G1|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 
-|top|
-|:--:|
 |A1|
+|:--:|
 |A2|
 |A3|
 |A4|
