@@ -40,4 +40,4 @@ It's also smart to swap the first few rows in the process so you get an overview
 
 `=TRANSPOSE(Sheet1!A1:Sheet1!J6)`
 
-## Next: [Sorting](03-sorting.md)
+## Next: [Sort](03-sort.md)
