@@ -7,6 +7,10 @@ Get immediate summaries of your dataset's contents by placing the most important
 ### Tip
 __Sorting on colums helps you point out the most extreme values in a dataset, then answer questions such as, _What are the top 10 names_ or _What are the bottom 5 items_ or _What are the latest dates_.__
 
+## Datasets
+- Use the [exonerations dataset](https://github.com/onyxfish/agate/raw/master/examples/realdata/exonerations-20150828.csv)
+- and/or try the White House salaries dataset again
+
 ## To sort spreadsheet data
 1. Highlight a range of columns and rows to sort.
 2. Look in the top menu, find the __Data__ label and choose its __Sort range...__ option.
