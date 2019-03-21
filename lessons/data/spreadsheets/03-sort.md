@@ -1,4 +1,5 @@
 # Sort data
+Get immediate summaries of your dataset's contents by placing the most important or most telling values into order. You get similar info to what you'd get by running the aggregate functions `MAX()` and `MIN()`.
 - _Column sorting_ lets you flip the direction that row values appear.
 - Choose which columns to order by first, order by second, etc.
 - Then choose an upward or downward alphanumeric direction.
