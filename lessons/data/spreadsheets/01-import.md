@@ -1,4 +1,4 @@
-# Importing Data
+# Import data
 Websites of official data providers, such as government agencies and other reference resources, may provide downloadable files of their datasets in varying file formats.
 
 A comma separated values (CSV) version is a very reliable option because it a text file with data delimited by commas, which a spreadsheet tool can detect and fill its table cells accordingly.
