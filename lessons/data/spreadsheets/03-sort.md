@@ -1,4 +1,4 @@
-# Sorting
+# Sort data
 - _Column sorting_ lets you flip the direction that row values appear.
 - Choose which columns to order by first, order by second, etc.
 - Then choose an upward or downward alphanumeric direction.
@@ -16,4 +16,4 @@ __Sorting on colums helps you point out the most extreme values in a dataset, th
 7. If you want to remove the additional sorting rule, click the __x__ at the left of the rule.
 8. Click the Sort button and check the result.
 
-## Next: [Filtering](04-filtering.md)
+## Next: [Filter](04-filter.md)
