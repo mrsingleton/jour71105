@@ -1,8 +1,8 @@
 # Transpose
 When your dataset's column headers are tough to read because...
-a. there are lots of them
-b. they're each pretty long
-c. they're overlapping
+- there are lots of them
+- they're each pretty long
+- they're overlapping
 
 you can swap them vertically so that they appear as a list instead.
 
