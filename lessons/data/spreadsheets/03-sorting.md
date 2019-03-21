@@ -15,3 +15,5 @@ __Sorting on colums helps you point out the most extreme values in a dataset, th
 6. If you want to set an additional sorting rule, click __+ Add another sort column__.
 7. If you want to remove the additional sorting rule, click the __x__ at the left of the rule.
 8. Click the Sort button and check the result.
+
+## Next: [Filtering](04-filtering.md)
