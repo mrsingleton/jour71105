@@ -1,7 +1,13 @@
 # Pivot Tables
+Use dynamic pivoting to shift data around and surface insightful revelations.
 
 1. Highlight a range of columns and rows to pivot.
-2. Use the top menu to select Data » Pivot table.
-3. Set values for rows, columns, values, and filters.
+2. Use the top menu to select __Data » Pivot table__.
+3. Select items to display for the table's rows, columns, values, and filters.
+4. Keep trying alternate combinations.
+
+Use the exonerations dataset and try to recreate this pivot table:
+
+![](https://i.imgur.com/DdQ32xB.png)
 
 ## Next: [Conditional Formatting](06-conditional-formatting.md)
