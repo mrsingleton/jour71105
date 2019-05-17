@@ -11,7 +11,7 @@ Use the [exonerations dataset](https://github.com/onyxfish/agate/raw/master/exam
 Filter down to view just murders in the Tri-State region.
 
 ## To filter spreadsheet data
-1. Highlight a range of columns and rows to filter.
+1. Highlight multiple columns and rows to filter (as opposed to highlighting just one column, which would cause unwanted behavior and results).
 2. Click the top menu's __Data__ item and choose the __Create a filter__ option.
 3. Notice the filter icons now present in each column's header row. Click any one to see its prompt window.
 4. To filter by condition, choose an option from the dropdown list.
